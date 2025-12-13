@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16mm"
-   height="16mm"
-   viewBox="0 0 16 16"
+   width="256mm"
+   height="256mm"
+   viewBox="0 0 256 256"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="字体设计.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,19 +23,80 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="10.234119"
-     inkscape:cx="23.646393"
-     inkscape:cy="34.687891"
-     inkscape:window-width="3072"
-     inkscape:window-height="1648"
-     inkscape:window-x="-11"
-     inkscape:window-y="1763"
+     showgrid="true"
+     inkscape:zoom="4.0017116"
+     inkscape:cx="125.07148"
+     inkscape:cy="37.608908"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="1469"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="grid"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="opacity:0.75;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       id="rect3"
+       width="15.999999"
+       height="15.999999"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:0.75;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none"
+       id="rect5"
+       width="15.999999"
+       height="15.999999"
+       x="16"
+       y="2.2252399e-07" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="m 6.9999998,3.9999999 c 0,0 -1,2.5566149 -2,4.9999998 C 3.9999998,11.443385 1.9999999,13 1.9999999,13"
+       id="path1"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="M 1.9999999,4.9999998 4.9999998,8.9999997"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:0.75;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="M 7.9999998,2.9999999 H 13 V 14"
+       id="path3"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:0.75;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="m 17.999999,5.9999998 h 5 l -1,6.0000002"
+       id="path5"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:0.75;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="M 21.517617,1.8684408 18.999999,13"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+  </g>
 </svg>

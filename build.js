@@ -44,10 +44,14 @@ function build() {
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>SVG Stacking</title>
+    <title>夏理文v1.2設計文檔</title>
     <style>
-        body { font-family: sans-serif; padding: 20px; font-size: 16px; } /* 设大一点字体方便看细节 */
+        body { font-family: sans-serif; padding: 20px; font-size: 16px; }
         code { background: #eee; padding: 2px 5px; border-radius: 3px; }
+
+        h1 { padding-left: 0em; }
+        h2 { padding-left: 2em; }
+        h3 { padding-left: 4em; }
         
         /* 也可以在这里全局控制，但插件已经内联了关键样式 */
         .svg-stack { margin: 0 2px; }
