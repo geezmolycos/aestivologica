@@ -44,10 +44,44 @@ function build() {
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
     <title>夏理文v1.2設計文檔</title>
     <style>
-        body { font-family: sans-serif; padding: 20px; font-size: 16px; }
-        code { background: #eee; padding: 2px 5px; border-radius: 3px; }
+        :root {
+            /* 文本颜色 */
+            --color-text: #212529; 
+            /* 背景颜色 */
+            --color-background: #ffffff;
+            /* 次级背景/高亮 (例如代码块背景) */
+            --color-surface: #f8f9fa; 
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --color-text: #e9ecef; /* 浅色文本 */
+                --color-background: #212529; /* 深色背景 */
+                --color-surface: #343a40; /* 略浅的深色 */
+            }
+        }
+
+        body {
+            font-family: sans-serif; 
+            padding: 2rem; 
+            max-width: 800px; 
+            margin: 0 auto; 
+            line-height: 1.6;
+            
+            /* 应用变量到主体 */
+            color: var(--color-text);
+            background-color: var(--color-background);
+            font-size: 16px;
+        }
+        code { 
+            background: var(--color-surface); 
+            padding: 2px 4px; 
+            border-radius: 4px; 
+        }
 
         h1 { padding-left: 0em; }
         h2 { padding-left: 2em; }
