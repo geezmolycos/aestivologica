@@ -82,6 +82,13 @@ function build() {
             padding: 2px 4px; 
             border-radius: 4px; 
         }
+        table {
+            border-collapse: collapse; /* This is crucial for tr borders to display correctly */
+        }
+        td {
+            border: 1px solid gray;
+            padding: 0.25em;
+        }
 
         h1 { padding-left: 0em; }
         h2 { padding-left: 2em; }

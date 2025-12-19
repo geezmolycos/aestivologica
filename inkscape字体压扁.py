@@ -10,6 +10,15 @@ HALF_CLONE_OFFSETS = [
     (23, 0)
 ]
 
+HALFHR_PREFIX = "gen_halfhr_"
+HALFHR_MOVE = (0, 16)
+HALFHR_SCALE = (1, 0.5)
+# 克隆的相对移动列表
+HALFHR_CLONE_OFFSETS = [
+    (16, 0),
+    (16, 7.5)
+]
+
 # 2. "Quarter" 阶段配置
 QUARTER_PREFIX = "gen_quarter_"
 QUARTER_MOVE = (0.5, 32.5)
@@ -76,9 +85,16 @@ for obj in all_shapes():
 
 for obj in all_shapes():
     label = obj.svg_get('inkscape:label')
-    if isinstance(label, str) and label.startswith('glyph_'):
+    if isinstance(label, str) and (label.startswith('consonant_') or label.startswith('vowel_')):
         # 执行第一阶段 (Half)
         process_object(obj, HALF_PREFIX, HALF_MOVE, HALF_SCALE, HALF_CLONE_OFFSETS)
+
+        # 执行第二阶段 (Quarter)
+        # 再次使用 target，保证 Quarter 也是从原件复制
+        process_object(obj, QUARTER_PREFIX, QUARTER_MOVE, QUARTER_SCALE, QUARTER_CLONE_OFFSETS)
+    if isinstance(label, str) and label.startswith('vowelhr_'):
+        # 执行第一阶段 (Half)
+        process_object(obj, HALFHR_PREFIX, HALFHR_MOVE, HALFHR_SCALE, HALFHR_CLONE_OFFSETS)
 
         # 执行第二阶段 (Quarter)
         # 再次使用 target，保证 Quarter 也是从原件复制

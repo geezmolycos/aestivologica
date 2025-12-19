@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1"
-     inkscape:cx="804.5"
-     inkscape:cy="442.5"
-     inkscape:window-width="2560"
-     inkscape:window-height="1373"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1390.1719"
+     inkscape:cy="421.43564"
+     inkscape:window-width="2133"
+     inkscape:window-height="1266"
      inkscape:window-x="-9"
-     inkscape:window-y="1469"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1">
+     inkscape:current-layer="layer2">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -195,24 +195,8 @@
          transform="translate(15.9999, 16)" />
     </g>
     <g
-       id="g15"
-       inkscape:label="example_e">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1185"
-         id="use14"
-         transform="translate(63.9999, 16)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1185"
-         id="use15"
-         transform="translate(47.9999, 0)" />
-    </g>
-    <g
        id="g1186-6-8"
-       inkscape:label="glyph_p"
+       inkscape:label="consonant_p"
        transform="translate(50.9999, -16)">
       <path
          id="rect17"
@@ -232,7 +216,7 @@
     </g>
     <g
        id="g8"
-       inkscape:label="glyph_b"
+       inkscape:label="consonant_b"
        transform="translate(82.9999, -16)">
       <path
          id="path4"
@@ -257,7 +241,7 @@
     </g>
     <g
        id="g13"
-       inkscape:label="glyph_t"
+       inkscape:label="consonant_t"
        transform="translate(115, -16)">
       <path
          id="path10"
@@ -277,7 +261,7 @@
     </g>
     <g
        id="g21"
-       inkscape:label="glyph_d"
+       inkscape:label="consonant_d"
        transform="translate(147, -16)">
       <path
          id="path19"
@@ -301,42 +285,8 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g17"
-       inkscape:label="example_e"
-       transform="translate(32, 0)">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1185"
-         id="use16"
-         transform="translate(63.9999, 16)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1185"
-         id="use17"
-         transform="translate(47.9999, 0)" />
-    </g>
-    <g
-       id="g19"
-       inkscape:label="example_e"
-       transform="translate(64, 0)">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1185"
-         id="use18"
-         transform="translate(63.9999, 16)" />
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g1185"
-         id="use19"
-         transform="translate(47.9999, 0)" />
-    </g>
-    <g
        id="g26"
-       inkscape:label="glyph_k"
+       inkscape:label="consonant_k"
        transform="translate(242.983, -16)">
       <path
          id="path23"
@@ -361,7 +311,7 @@
     </g>
     <g
        id="g31"
-       inkscape:label="glyph_g"
+       inkscape:label="consonant_g"
        transform="translate(274.983, -16)">
       <path
          id="path28"
@@ -392,13 +342,8 @@
     </g>
     <g
        id="g37"
-       inkscape:label="glyph_stop"
+       inkscape:label="consonant_stop"
        transform="translate(307, -16)">
-      <path
-         id="path33"
-         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
-         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
-         inkscape:label="borderline" />
       <path
          id="path35"
          style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -412,7 +357,7 @@
     </g>
     <g
        id="g40"
-       inkscape:label="glyph_f"
+       inkscape:label="consonant_f"
        transform="translate(50.9999, 48)">
       <path
          id="path38"
@@ -434,7 +379,7 @@
     </g>
     <g
        id="g44"
-       inkscape:label="glyph_v"
+       inkscape:label="consonant_v"
        transform="translate(82.9999, 48)">
       <path
          id="path42"
@@ -460,7 +405,7 @@
     </g>
     <g
        id="g49"
-       inkscape:label="glyph_s"
+       inkscape:label="consonant_s"
        transform="translate(115, 48)">
       <path
          id="path46"
@@ -480,7 +425,7 @@
     </g>
     <g
        id="g53"
-       inkscape:label="glyph_z"
+       inkscape:label="consonant_z"
        transform="translate(147.1, 48.1)">
       <path
          id="path51"
@@ -505,7 +450,7 @@
     </g>
     <g
        id="g57"
-       inkscape:label="glyph_c"
+       inkscape:label="consonant_c"
        transform="translate(178.9, 47.9)">
       <path
          id="path55"
@@ -525,7 +470,7 @@
     </g>
     <g
        id="g61"
-       inkscape:label="glyph_j"
+       inkscape:label="consonant_j"
        transform="translate(211, 48)">
       <path
          id="path58"
@@ -550,7 +495,7 @@
     </g>
     <g
        id="g64"
-       inkscape:label="glyph_x"
+       inkscape:label="consonant_x"
        transform="translate(243, 48)">
       <path
          id="path62"
@@ -570,7 +515,7 @@
     </g>
     <g
        id="g67"
-       inkscape:label="glyph_h"
+       inkscape:label="consonant_h"
        transform="translate(307, 48)">
       <path
          id="path65"
@@ -586,7 +531,7 @@
     </g>
     <g
        id="g70"
-       inkscape:label="glyph_m"
+       inkscape:label="consonant_m"
        transform="translate(50.9999, 112)">
       <path
          id="path68"
@@ -606,7 +551,7 @@
     </g>
     <g
        id="g74"
-       inkscape:label="glyph_n"
+       inkscape:label="consonant_n"
        transform="translate(82.9999, 112)">
       <path
          id="path72"
@@ -628,7 +573,7 @@
     </g>
     <g
        id="g78"
-       inkscape:label="glyph_l"
+       inkscape:label="consonant_l"
        transform="translate(115, 112.129)">
       <path
          id="path76"
@@ -648,7 +593,7 @@
     </g>
     <g
        id="g81"
-       inkscape:label="glyph_r"
+       inkscape:label="consonant_r"
        transform="translate(147, 112)">
       <path
          id="path81"
@@ -668,7 +613,7 @@
     </g>
     <g
        id="g86"
-       inkscape:label="glyph_q"
+       inkscape:label="consonant_q"
        transform="translate(243, 112)">
       <path
          id="path84"
@@ -689,7 +634,7 @@
     </g>
     <g
        id="g88"
-       inkscape:label="glyph_w"
+       inkscape:label="consonant_w"
        transform="translate(275, 112)">
       <path
          id="path88"
@@ -714,1411 +659,4957 @@
          id="path91" />
     </g>
     <g
-       id="g5849"
-       inkscape:label="gen_half_glyph_p"
+       id="g37-8"
+       inkscape:label="vowelhr_a"
+       transform="translate(403, 112)">
+      <path
+         id="path35-4"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 402.99999,3.9999999 V 13 h 11"
+         id="path11"
+         transform="translate(-403, 16)" />
+    </g>
+    <g
+       id="g15"
+       inkscape:label="vowelhr_e"
+       transform="translate(435, 112)">
+      <path
+         id="path12"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 402.99999,3.9999999 V 13 h 11"
+         id="path15"
+         transform="translate(-403, 16)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 440.49999,68.999998 v 8"
+         id="path16"
+         transform="translate(-435, -48)" />
+    </g>
+    <g
+       id="g25"
+       inkscape:label="vowelhr_i"
+       transform="translate(467, 112)">
+      <path
+         id="path17"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 5.000095,20 v 9"
+         id="path25"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 465.99999,76.999998 11.99998,-2e-6"
+         id="path30"
+         sodipodi:nodetypes="cc"
+         transform="translate(-467, -48)" />
+    </g>
+    <g
+       id="g36"
+       inkscape:label="vowelhr_o"
+       transform="translate(499, 112)">
+      <path
+         id="path33"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 498.99998,67.999998 v 9 h 11"
+         id="path15-6"
+         transform="translate(-499, -48)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M -1.5812785e-5,23.499998 9.9999841,23.499997"
+         id="path36"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g48"
+       inkscape:label="vowelhr_u"
+       transform="translate(531, 112)">
+      <path
+         id="path39"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 529.99999,76.999999 11.99998,-2e-6"
+         id="path30-9"
+         sodipodi:nodetypes="cc"
+         transform="translate(-531, -48)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 531.99998,69.999997 h 7.99999"
+         id="path48"
+         transform="translate(-531, -48)" />
+    </g>
+    <g
+       id="g48-2"
+       inkscape:label="vowelhr_y"
+       transform="translate(563, 112)">
+      <path
+         id="path39-3"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 529.99999,76.999999 11.99998,-2e-6"
+         id="path30-9-3"
+         sodipodi:nodetypes="cc"
+         transform="translate(-531, -48)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.0001118,21.499996 h 7.99999"
+         id="path48-4" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 567.99998,69.499998 v 7.499998"
+         id="path66"
+         transform="translate(-563, -48)" />
+    </g>
+    <g
+       id="g37-8-7"
+       inkscape:label="vowelhr_a_s"
+       transform="translate(403, 176)">
+      <path
+         id="path35-4-4"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 402.99999,3.9999999 V 13 h 11 l -1,-4.0000044"
+         id="path11-2"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g15-7"
+       inkscape:label="vowelhr_e_s"
+       transform="translate(435, 176)">
+      <path
+         id="path12-7"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 402.99999,3.9999999 V 13 h 11 l -1,-4.0000044"
+         id="path15-9"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 440.49999,68.999998 v 8"
+         id="path16-3"
+         transform="translate(-435, -48)" />
+    </g>
+    <g
+       id="g25-1"
+       inkscape:label="vowelhr_i_s"
+       transform="translate(467, 176)">
+      <path
+         id="path17-9"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 5.000095,20 v 9"
+         id="path25-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 465.99999,76.999998 11.99998,-2e-6 -0.99999,-4"
+         id="path30-6"
+         sodipodi:nodetypes="ccc"
+         transform="translate(-467, -48)" />
+    </g>
+    <g
+       id="g36-5"
+       inkscape:label="vowelhr_o_s"
+       transform="translate(499, 176)">
+      <path
+         id="path33-0"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 498.99998,67.999998 v 9 h 11 l -1,-4.000002"
+         id="path15-6-2"
+         transform="translate(-499, -48)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M -1.5812785e-5,23.499998 7.9999839,23.499997"
+         id="path36-8"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g48-6"
+       inkscape:label="vowelhr_u_s"
+       transform="translate(531, 176)">
+      <path
+         id="path39-0"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 529.99999,76.999999 11.99998,-2e-6 -0.99999,-4.000001"
+         id="path30-9-2"
+         sodipodi:nodetypes="ccc"
+         transform="translate(-531, -48)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 531.99998,69.999997 h 7.99999"
+         id="path48-48"
+         transform="translate(-531, -48)" />
+    </g>
+    <g
+       id="g48-2-6"
+       inkscape:label="vowelhr_y_s"
+       transform="translate(563, 176)">
+      <path
+         id="path39-3-5"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 529.99999,76.999999 11.99998,-2e-6 -0.99999,-4.000001"
+         id="path30-9-3-0"
+         sodipodi:nodetypes="ccc"
+         transform="translate(-531, -48)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.0001118,21.499996 h 7.99999"
+         id="path48-4-9" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 567.99998,69.499998 v 7.499998"
+         id="path66-0"
+         transform="translate(-563, -48)" />
+    </g>
+    <g
+       id="g73"
+       inkscape:label="vowel_a"
+       transform="translate(403, -16)">
+      <path
+         id="path69"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0325617e-4,19.5 H 10.000083 v 10.499999"
+         id="path73"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g80"
+       inkscape:label="vowel_e"
+       transform="translate(435, -16)">
+      <path
+         id="path79"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0325617e-4,19.5 H 10.000083 v 10.499999"
+         id="path80"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 435.99999,9.5 8.99999,-2"
+         id="path85"
+         transform="translate(-435, 16)"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g94"
+       inkscape:label="vowel_i"
+       transform="translate(467, -16)">
+      <path
+         id="path92"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 9.5000468,18.5 1.8e-5,11.5"
+         id="path93"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 435.00007,8.9999997 444.50006,7.5"
+         id="path94"
+         sodipodi:nodetypes="cc"
+         transform="translate(-435, 16)" />
+    </g>
+    <g
+       id="g97"
+       inkscape:label="vowel_o"
+       transform="translate(499, -16)">
+      <path
+         id="path95"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.1e-4,19.5 h 9.99998 v 10.499999"
+         id="path97"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 3.4999855,21 c 0,0 0.061325,3.561994 -0.2338608,5 -0.2951859,1.438005 -1.2662729,3.5 -1.2662729,3.5"
+         id="path98"
+         sodipodi:nodetypes="czc" />
+    </g>
+    <g
+       id="g101"
+       inkscape:label="vowel_u"
+       transform="translate(531, -16)">
+      <path
+         id="path99"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 9.5000468,18.5 1.8e-5,11.5"
+         id="path100"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.0000631,20 v 8.5"
+         id="path101"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g104"
+       inkscape:label="vowel_y"
+       transform="translate(563, -16)">
+      <path
+         id="path102"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 9.5000468,18.5 1.8e-5,11.5"
+         id="path103"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.500062,20 v 8.5"
+         id="path104"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 564.49998,7.9999998 h 8"
+         id="path105"
+         sodipodi:nodetypes="cc"
+         transform="translate(-563, 16)" />
+    </g>
+    <g
+       id="g107"
+       inkscape:label="vowel_a_s"
+       transform="translate(403, 48)">
+      <path
+         id="path106"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0325617e-4,19.5 H 10.000083 V 29.999999 L 6.000097,28"
+         id="path107"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g110"
+       inkscape:label="vowel_e_s"
+       transform="translate(435, 48)">
+      <path
+         id="path108"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0325617e-4,19.5 H 10.000083 V 29.999999 L 5.999986,27.999998"
+         id="path109"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 435.99999,9.5 8.99999,-2"
+         id="path110"
+         transform="translate(-435, 16)"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g113"
+       inkscape:label="vowel_i_s"
+       transform="translate(467, 48)">
+      <path
+         id="path111"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 9.5000468,18.5 9.5000648,30 5.5,27.999998"
+         id="path112"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 435.00007,8.9999997 444.50006,7.5"
+         id="path113"
+         sodipodi:nodetypes="cc"
+         transform="translate(-435, 16)" />
+    </g>
+    <g
+       id="g116"
+       inkscape:label="vowel_o_s"
+       transform="translate(499, 48)">
+      <path
+         id="path114"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.1e-4,19.5 h 9.99998 V 29.999999 L 5.9999839,27.999998"
+         id="path115"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 3.4999855,21 c 0,0 0.061325,3.561994 -0.2338608,5 -0.2951859,1.438005 -1.2662729,3.5 -1.2662729,3.5"
+         id="path116"
+         sodipodi:nodetypes="czc" />
+    </g>
+    <g
+       id="g119"
+       inkscape:label="vowel_u_s"
+       transform="translate(531, 48)">
+      <path
+         id="path117"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 9.5000468,18.5 9.5000648,30 5.5,27.999998"
+         id="path118"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.0000631,20 v 8.5"
+         id="path119"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g123"
+       inkscape:label="vowel_y_s"
+       transform="translate(563, 48)">
+      <path
+         id="path120"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 9.5000468,18.5 9.5000648,30 5.5,27.999998"
+         id="path121"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.500062,20 v 8.5"
+         id="path122"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 564.49998,7.9999998 h 8"
+         id="path123"
+         sodipodi:nodetypes="cc"
+         transform="translate(-563, 16)" />
+    </g>
+    <g
+       id="g125"
+       inkscape:label="vowel_ai"
+       transform="translate(611, -16)">
+      <path
+         id="path124"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,20 H 9.0001003 l 0,9"
+         id="path125"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 609.99997,13 h 12.00002"
+         id="path126"
+         transform="translate(-611, 16)" />
+    </g>
+    <g
+       id="g129"
+       inkscape:label="vowel_ei"
+       transform="translate(643, -16)">
+      <path
+         id="path127"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,20 H 9.0001003 v 9"
+         id="path128"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 609.99997,13 h 12.00002"
+         id="path129"
+         transform="translate(-611, 16)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 642.99997,8.5 h 9.00001"
+         id="path130"
+         transform="translate(-643, 16)" />
+    </g>
+    <g
+       id="g133"
+       inkscape:label="vowel_oi"
+       transform="translate(675, -16)">
+      <path
+         id="path131"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,20 H 9.0001003 v 9"
+         id="path132"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 609.99997,13 h 12.00002"
+         id="path133"
+         transform="translate(-611, 16)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.000089,20 v 9"
+         id="path134" />
+    </g>
+    <g
+       id="g138"
+       inkscape:label="vowel_au"
+       transform="translate(707, -16)">
+      <path
+         id="path135"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,19.5 H 9.0001003 L 9.0000572,30"
+         id="path136"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.0001004,19.5 v 10"
+         id="path138"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 707,8.5000003 711,8.5"
+         id="path139"
+         sodipodi:nodetypes="cc"
+         transform="translate(-707, 16)" />
+    </g>
+    <g
+       id="g144"
+       inkscape:label="vowel_ai_s"
+       transform="translate(611, 48)">
+      <path
+         id="path142"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,20 H 9.0001003 l 0,8"
+         id="path143"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M -0.9999747,28 H 11.000045 l -4.9999446,2.999999"
+         id="path144"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g148"
+       inkscape:label="vowel_ei_s"
+       transform="translate(643, 48)">
+      <path
+         id="path145"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,20 H 9.0001003 l -10e-7,8"
+         id="path146"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M -0.9999747,28 H 11.000045 l -4.9999456,2.999999"
+         id="path147"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M -3e-5,23.970833 H 8.99998"
+         id="path148" />
+    </g>
+    <g
+       id="g152"
+       inkscape:label="vowel_oi_s"
+       transform="translate(675, 48)">
+      <path
+         id="path149"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,20 H 9.0001003 l -2e-6,8"
+         id="path150"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M -0.99997674,28 H 11.000043 l -4.9999446,2.999999"
+         id="path151"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.000089,20 9.4e-6,8"
+         id="path152"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g156"
+       inkscape:label="vowel_au_s"
+       transform="translate(707, 48)">
+      <path
+         id="path153"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.0057683e-4,19.5 H 9.0001003 L 9.0000572,30 6.0000973,27"
+         id="path154"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.4709337,19.5 v 10"
+         id="path155"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 707,8.5000003 710.5,8.5"
+         id="path156"
+         sodipodi:nodetypes="cc"
+         transform="translate(-707, 16)" />
+    </g>
+    <g
+       id="g159"
+       inkscape:label="vowelhr_ai"
+       transform="translate(611, 112)">
+      <path
+         id="path157"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 10"
+         id="path158"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 10.000082,19.999994 V 29.999995"
+         id="path159" />
+    </g>
+    <g
+       id="g163"
+       inkscape:label="vowelhr_ei"
+       transform="translate(643, 112)">
+      <path
+         id="path160"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 10"
+         id="path161"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 10.000082,19.999994 V 29.999995"
+         id="path163" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 647.99998,140.43776 v -8.43777"
+         id="path164"
+         transform="translate(-643, -112)" />
+    </g>
+    <g
+       id="g167"
+       inkscape:label="vowelhr_oi"
+       transform="translate(675, 112)">
+      <path
+         id="path165"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 10"
+         id="path166"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 10.000082,19.999994 V 29.999995"
+         id="path167" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 674.99996,134.99999 h 10.00001"
+         id="path168"
+         transform="translate(-675, -112)" />
+    </g>
+    <g
+       id="g172"
+       inkscape:label="vowelhr_au"
+       transform="translate(707, 112)">
+      <path
+         id="path169"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 10.50002"
+         id="path170"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 706.99997,135.99999 717.5,136"
+         id="path172"
+         sodipodi:nodetypes="cc"
+         transform="translate(-707, -112)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 712.99998,135.99999 v -4"
+         id="path173"
+         transform="translate(-707, -112)" />
+    </g>
+    <g
+       id="g176"
+       inkscape:label="vowelhr_ai_s"
+       transform="translate(611, 176)">
+      <path
+         id="path174"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 8.94167"
+         id="path175"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 8.9417486,19.999994 V 29.999995 L 12.00006,27.000004"
+         id="path176" />
+    </g>
+    <g
+       id="g180"
+       inkscape:label="vowelhr_ei_s"
+       transform="translate(643, 176)">
+      <path
+         id="path177"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 8.94167"
+         id="path178"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 8.9417486,19.999994 V 29.999995 L 12.000059,27.000004"
+         id="path179" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 4.4708133,28.43776 V 19.99999"
+         id="path180" />
+    </g>
+    <g
+       id="g184"
+       inkscape:label="vowelhr_oi_s"
+       transform="translate(675, 176)">
+      <path
+         id="path181"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 8.94167"
+         id="path182"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 8.9417486,19.999994 V 29.999995 L 12.000058,27.000004"
+         id="path183" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 674.99996,134.99999 h 8.94168"
+         id="path184"
+         transform="translate(-675, -112)"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g188"
+       inkscape:label="vowelhr_au_s"
+       transform="translate(707, 176)">
+      <path
+         id="path185"
+         style="opacity:1;fill:none;stroke:#ff8c00;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         d="M -2.9999015,16 H 13.000097 V 31.999999 H -2.9999015 Z"
+         inkscape:label="borderline" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 402.99999,3.9999999 1.1e-4,8.4377601 h 10.50002 l -3.02931,-2.4377664"
+         id="path186"
+         transform="translate(-403, 16)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 706.99997,135.99999 717.5,136"
+         id="path187"
+         sodipodi:nodetypes="cc"
+         transform="translate(-707, -112)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 712.99998,135.99999 v -4"
+         id="path188"
+         transform="translate(-707, -112)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="ggen">
+    <g
+       id="g6492"
+       inkscape:label="gen_half_consonant_p"
        transform="translate(48.5, 16)">
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="m 6.47957 3.37117 c 0 0 -0.989783 2.87815 -1.97956 5.62883 c -0.989782 2.75068 -2.96935 4.50306 -2.96935 4.50306"
          sodipodi:nodetypes="czc"
-         id="path8504" />
+         id="path8379" />
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="M 1.85458 3.73959 L 4.5 9"
          sodipodi:nodetypes="cc"
-         id="path1056" />
+         id="path2556" />
     </g>
     <use
-       xlink:href="#g5849"
-       id="use1954"
-       inkscape:label="gen_half_use1954"
+       xlink:href="#g6492"
+       id="use5238"
+       inkscape:label="gen_half_use5238"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g5849"
-       id="use4734"
-       inkscape:label="gen_half_use4734"
+       xlink:href="#g6492"
+       id="use5987"
+       inkscape:label="gen_half_use5987"
        transform="translate(23, 0)" />
     <g
-       id="g494"
-       inkscape:label="gen_quarter_glyph_p"
+       id="g1651"
+       inkscape:label="gen_quarter_consonant_p"
        transform="translate(48.5, 32.5)">
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="m 6.47957 1.68558 c 0 0 -0.989783 1.43908 -1.97956 2.81442 c -0.989782 1.37534 -2.96935 2.25153 -2.96935 2.25153"
          sodipodi:nodetypes="czc"
-         id="path8860" />
+         id="path4482" />
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="M 1.85458 1.8698 L 4.5 4.5"
          sodipodi:nodetypes="cc"
-         id="path6037" />
+         id="path548" />
     </g>
     <use
-       xlink:href="#g494"
-       id="use5500"
-       inkscape:label="gen_quarter_use5500"
+       xlink:href="#g1651"
+       id="use1385"
+       inkscape:label="gen_quarter_use1385"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g494"
-       id="use7926"
-       inkscape:label="gen_quarter_use7926"
+       xlink:href="#g1651"
+       id="use4310"
+       inkscape:label="gen_quarter_use4310"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g494"
-       id="use1448"
-       inkscape:label="gen_quarter_use1448"
+       xlink:href="#g1651"
+       id="use9985"
+       inkscape:label="gen_quarter_use9985"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g494"
-       id="use8322"
-       inkscape:label="gen_quarter_use8322"
+       xlink:href="#g1651"
+       id="use6413"
+       inkscape:label="gen_quarter_use6413"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g494"
-       id="use3608"
-       inkscape:label="gen_quarter_use3608"
+       xlink:href="#g1651"
+       id="use5451"
+       inkscape:label="gen_quarter_use5451"
        transform="translate(16, 6.5)" />
     <g
-       id="g9897"
-       inkscape:label="gen_half_glyph_b"
+       id="g4717"
+       inkscape:label="gen_half_consonant_b"
        transform="translate(80.5, 16)">
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="m 6.47957 3.37117 c 0 0 -0.989783 2.87815 -1.97956 5.62883 c -0.989782 2.75068 -2.96935 4.50306 -2.96935 4.50306"
          sodipodi:nodetypes="czc"
-         id="path8012" />
+         id="path3290" />
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="M 1.85458 3.73959 L 4.5 9"
          sodipodi:nodetypes="cc"
-         id="path8616" />
+         id="path1691" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="M 1.5 9 L 6.76614 9"
          sodipodi:nodetypes="cc"
-         id="path2481" />
+         id="path9328" />
     </g>
     <use
-       xlink:href="#g9897"
-       id="use3488"
-       inkscape:label="gen_half_use3488"
+       xlink:href="#g4717"
+       id="use3102"
+       inkscape:label="gen_half_use3102"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g9897"
-       id="use3499"
-       inkscape:label="gen_half_use3499"
+       xlink:href="#g4717"
+       id="use8916"
+       inkscape:label="gen_half_use8916"
        transform="translate(23, 0)" />
     <g
-       id="g5712"
-       inkscape:label="gen_quarter_glyph_b"
+       id="g3124"
+       inkscape:label="gen_quarter_consonant_b"
        transform="translate(80.5, 32.5)">
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="m 6.47957 1.68558 c 0 0 -0.989783 1.43908 -1.97956 2.81442 c -0.989782 1.37534 -2.96935 2.25153 -2.96935 2.25153"
          sodipodi:nodetypes="czc"
-         id="path6149" />
+         id="path7821" />
       <path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="M 1.85458 1.8698 L 4.5 4.5"
          sodipodi:nodetypes="cc"
-         id="path3724" />
+         id="path8959" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
          d="M 1.5 4.5 L 6.76614 4.5"
          sodipodi:nodetypes="cc"
-         id="path8301" />
+         id="path4806" />
     </g>
     <use
-       xlink:href="#g5712"
-       id="use8100"
-       inkscape:label="gen_quarter_use8100"
+       xlink:href="#g3124"
+       id="use6943"
+       inkscape:label="gen_quarter_use6943"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g5712"
-       id="use8966"
-       inkscape:label="gen_quarter_use8966"
+       xlink:href="#g3124"
+       id="use1630"
+       inkscape:label="gen_quarter_use1630"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g5712"
-       id="use1643"
-       inkscape:label="gen_quarter_use1643"
+       xlink:href="#g3124"
+       id="use853"
+       inkscape:label="gen_quarter_use853"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g5712"
-       id="use1614"
-       inkscape:label="gen_quarter_use1614"
+       xlink:href="#g3124"
+       id="use9535"
+       inkscape:label="gen_quarter_use9535"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g5712"
-       id="use8029"
-       inkscape:label="gen_quarter_use8029"
+       xlink:href="#g3124"
+       id="use3143"
+       inkscape:label="gen_quarter_use3143"
        transform="translate(16, 6.5)" />
     <g
-       id="g2345"
-       inkscape:label="gen_half_glyph_t"
+       id="g1032"
+       inkscape:label="gen_half_consonant_t"
        transform="translate(112.5, 16)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.25444 3.35079 C 4.50705 6.56755 3.01363 9.40691 1.5 13 L 6.5 13"
          sodipodi:nodetypes="ccc"
-         id="path5108" />
+         id="path9692" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.68709 3.35079 L 4 8"
          sodipodi:nodetypes="cc"
-         id="path5397" />
+         id="path8105" />
     </g>
     <use
-       xlink:href="#g2345"
-       id="use9420"
-       inkscape:label="gen_half_use9420"
+       xlink:href="#g1032"
+       id="use2311"
+       inkscape:label="gen_half_use2311"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g2345"
-       id="use8386"
-       inkscape:label="gen_half_use8386"
+       xlink:href="#g1032"
+       id="use5870"
+       inkscape:label="gen_half_use5870"
        transform="translate(23, 0)" />
     <g
-       id="g1687"
-       inkscape:label="gen_quarter_glyph_t"
+       id="g6073"
+       inkscape:label="gen_quarter_consonant_t"
        transform="translate(112.5, 32.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.25444 1.67539 C 4.50705 3.28378 3.01363 4.70346 1.5 6.5 L 6.5 6.5"
          sodipodi:nodetypes="ccc"
-         id="path5576" />
+         id="path7461" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.68709 1.67539 L 4 4"
          sodipodi:nodetypes="cc"
-         id="path8802" />
+         id="path1061" />
     </g>
     <use
-       xlink:href="#g1687"
-       id="use9866"
-       inkscape:label="gen_quarter_use9866"
+       xlink:href="#g6073"
+       id="use5804"
+       inkscape:label="gen_quarter_use5804"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g1687"
-       id="use1322"
-       inkscape:label="gen_quarter_use1322"
+       xlink:href="#g6073"
+       id="use9429"
+       inkscape:label="gen_quarter_use9429"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g1687"
-       id="use6853"
-       inkscape:label="gen_quarter_use6853"
+       xlink:href="#g6073"
+       id="use9907"
+       inkscape:label="gen_quarter_use9907"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g1687"
-       id="use6823"
-       inkscape:label="gen_quarter_use6823"
+       xlink:href="#g6073"
+       id="use5727"
+       inkscape:label="gen_quarter_use5727"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g1687"
-       id="use6388"
-       inkscape:label="gen_quarter_use6388"
+       xlink:href="#g6073"
+       id="use8910"
+       inkscape:label="gen_quarter_use8910"
        transform="translate(16, 6.5)" />
     <g
-       id="g7103"
-       inkscape:label="gen_half_glyph_d"
+       id="g4859"
+       inkscape:label="gen_half_consonant_d"
        transform="translate(144.5, 16)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.25444 3.35079 C 4.50724 6.5667 3.68723 7.82044 1.5 13 L 6.26084 12.1551"
          sodipodi:nodetypes="ccc"
-         id="path4340" />
+         id="path3203" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.68709 3.35079 L 4 8"
          sodipodi:nodetypes="cc"
-         id="path4784" />
+         id="path1801" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 5.29329 9.22127 l 1.40798 4.18128"
          sodipodi:nodetypes="cc"
-         id="path566" />
+         id="path5155" />
     </g>
     <use
-       xlink:href="#g7103"
-       id="use6140"
-       inkscape:label="gen_half_use6140"
+       xlink:href="#g4859"
+       id="use8383"
+       inkscape:label="gen_half_use8383"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g7103"
-       id="use5251"
-       inkscape:label="gen_half_use5251"
+       xlink:href="#g4859"
+       id="use8473"
+       inkscape:label="gen_half_use8473"
        transform="translate(23, 0)" />
     <g
-       id="g1549"
-       inkscape:label="gen_quarter_glyph_d"
+       id="g5028"
+       inkscape:label="gen_quarter_consonant_d"
        transform="translate(144.5, 32.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.25444 1.67539 C 4.50724 3.28335 3.68723 3.91022 1.5 6.5 L 6.26084 6.07753"
          sodipodi:nodetypes="ccc"
-         id="path1973" />
+         id="path7575" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.68709 1.67539 L 4 4"
          sodipodi:nodetypes="cc"
-         id="path5710" />
+         id="path4074" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 5.29329 4.61063 l 1.40798 2.09064"
          sodipodi:nodetypes="cc"
-         id="path3525" />
+         id="path6456" />
     </g>
     <use
-       xlink:href="#g1549"
-       id="use8565"
-       inkscape:label="gen_quarter_use8565"
+       xlink:href="#g5028"
+       id="use9281"
+       inkscape:label="gen_quarter_use9281"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g1549"
-       id="use8160"
-       inkscape:label="gen_quarter_use8160"
+       xlink:href="#g5028"
+       id="use1555"
+       inkscape:label="gen_quarter_use1555"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g1549"
-       id="use3452"
-       inkscape:label="gen_quarter_use3452"
+       xlink:href="#g5028"
+       id="use3729"
+       inkscape:label="gen_quarter_use3729"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g1549"
-       id="use7596"
-       inkscape:label="gen_quarter_use7596"
+       xlink:href="#g5028"
+       id="use826"
+       inkscape:label="gen_quarter_use826"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g1549"
-       id="use3598"
-       inkscape:label="gen_quarter_use3598"
+       xlink:href="#g5028"
+       id="use343"
+       inkscape:label="gen_quarter_use343"
        transform="translate(16, 6.5)" />
     <g
-       id="g501"
-       inkscape:label="gen_half_glyph_k"
+       id="g5350"
+       inkscape:label="gen_half_consonant_k"
        transform="translate(240.483, 16)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.29232 3.25725 C 3.18783 6.35938 1.82993 12.2388 1.5 13 L 6.26084 12.1551"
          sodipodi:nodetypes="ccc"
-         id="path6627" />
+         id="path3012" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 5.11205 8.37937 l 1.58922 5.02317"
          sodipodi:nodetypes="cc"
-         id="path6913" />
+         id="path7561" />
     </g>
     <use
-       xlink:href="#g501"
-       id="use4750"
-       inkscape:label="gen_half_use4750"
+       xlink:href="#g5350"
+       id="use3057"
+       inkscape:label="gen_half_use3057"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g501"
-       id="use9010"
-       inkscape:label="gen_half_use9010"
+       xlink:href="#g5350"
+       id="use6539"
+       inkscape:label="gen_half_use6539"
        transform="translate(23, 0)" />
     <g
-       id="g5415"
-       inkscape:label="gen_quarter_glyph_k"
+       id="g8221"
+       inkscape:label="gen_quarter_consonant_k"
        transform="translate(240.483, 32.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.29232 1.62862 C 3.18783 3.17969 1.82993 6.11942 1.5 6.5 L 6.26084 6.07753"
          sodipodi:nodetypes="ccc"
-         id="path3576" />
+         id="path4355" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 5.11205 4.18968 l 1.58922 2.51159"
          sodipodi:nodetypes="cc"
-         id="path4677" />
+         id="path4669" />
     </g>
     <use
-       xlink:href="#g5415"
-       id="use5538"
-       inkscape:label="gen_quarter_use5538"
+       xlink:href="#g8221"
+       id="use7439"
+       inkscape:label="gen_quarter_use7439"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g5415"
-       id="use4124"
-       inkscape:label="gen_quarter_use4124"
+       xlink:href="#g8221"
+       id="use1090"
+       inkscape:label="gen_quarter_use1090"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g5415"
-       id="use7661"
-       inkscape:label="gen_quarter_use7661"
+       xlink:href="#g8221"
+       id="use8506"
+       inkscape:label="gen_quarter_use8506"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g5415"
-       id="use9503"
-       inkscape:label="gen_quarter_use9503"
+       xlink:href="#g8221"
+       id="use9381"
+       inkscape:label="gen_quarter_use9381"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g5415"
-       id="use3305"
-       inkscape:label="gen_quarter_use3305"
+       xlink:href="#g8221"
+       id="use6263"
+       inkscape:label="gen_quarter_use6263"
        transform="translate(16, 6.5)" />
     <g
-       id="g270"
-       inkscape:label="gen_half_glyph_g"
+       id="g6247"
+       inkscape:label="gen_half_consonant_g"
        transform="translate(272.483, 16)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.31737 3 C 3.75965 6.62266 2.12406 11.3231 1.5 13 L 6.26084 12.1551"
          sodipodi:nodetypes="ccc"
-         id="path2894" />
+         id="path1188" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 5.29336 9.22127 l 1.40798 4.18128"
          sodipodi:nodetypes="cc"
-         id="path2523" />
+         id="path2557" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.28952 6.5 L 6.72216 6.5"
          sodipodi:nodetypes="cc"
-         id="path9157" />
+         id="path3236" />
     </g>
     <use
-       xlink:href="#g270"
-       id="use8500"
-       inkscape:label="gen_half_use8500"
+       xlink:href="#g6247"
+       id="use1535"
+       inkscape:label="gen_half_use1535"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g270"
-       id="use1532"
-       inkscape:label="gen_half_use1532"
+       xlink:href="#g6247"
+       id="use8351"
+       inkscape:label="gen_half_use8351"
        transform="translate(23, 0)" />
     <g
-       id="g5218"
-       inkscape:label="gen_quarter_glyph_g"
+       id="g8195"
+       inkscape:label="gen_quarter_consonant_g"
        transform="translate(272.483, 32.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.31737 1.5 C 3.75965 3.31133 2.12406 5.66157 1.5 6.5 L 6.26084 6.07753"
          sodipodi:nodetypes="ccc"
-         id="path8111" />
+         id="path4737" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 5.29336 4.61063 l 1.40798 2.09064"
          sodipodi:nodetypes="cc"
-         id="path2580" />
+         id="path6192" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.28952 3.25 L 6.72216 3.25"
          sodipodi:nodetypes="cc"
-         id="path6006" />
+         id="path2782" />
     </g>
     <use
-       xlink:href="#g5218"
-       id="use1241"
-       inkscape:label="gen_quarter_use1241"
+       xlink:href="#g8195"
+       id="use5412"
+       inkscape:label="gen_quarter_use5412"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g5218"
-       id="use9851"
-       inkscape:label="gen_quarter_use9851"
+       xlink:href="#g8195"
+       id="use9745"
+       inkscape:label="gen_quarter_use9745"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g5218"
-       id="use1893"
-       inkscape:label="gen_quarter_use1893"
+       xlink:href="#g8195"
+       id="use4518"
+       inkscape:label="gen_quarter_use4518"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g5218"
-       id="use6254"
-       inkscape:label="gen_quarter_use6254"
+       xlink:href="#g8195"
+       id="use4920"
+       inkscape:label="gen_quarter_use4920"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g5218"
-       id="use9093"
-       inkscape:label="gen_quarter_use9093"
+       xlink:href="#g8195"
+       id="use263"
+       inkscape:label="gen_quarter_use263"
        transform="translate(16, 6.5)" />
     <g
-       id="g1949"
-       inkscape:label="gen_half_glyph_stop"
+       id="g2879"
+       inkscape:label="gen_half_consonant_stop"
        transform="translate(304.5, 16)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.99744 4 L 5.99744 4 L 1.49745 13 L 6.49745 13"
-         id="path138" />
+         id="path6377" />
     </g>
     <use
-       xlink:href="#g1949"
-       id="use8007"
-       inkscape:label="gen_half_use8007"
+       xlink:href="#g2879"
+       id="use8320"
+       inkscape:label="gen_half_use8320"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g1949"
-       id="use12"
-       inkscape:label="gen_half_use12"
+       xlink:href="#g2879"
+       id="use3273"
+       inkscape:label="gen_half_use3273"
        transform="translate(23, 0)" />
     <g
-       id="g8205"
-       inkscape:label="gen_quarter_glyph_stop"
+       id="g4677"
+       inkscape:label="gen_quarter_consonant_stop"
        transform="translate(304.5, 32.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.99744 2 L 5.99744 2 L 1.49745 6.5 L 6.49745 6.5"
-         id="path2350" />
+         id="path7042" />
     </g>
     <use
-       xlink:href="#g8205"
-       id="use9918"
-       inkscape:label="gen_quarter_use9918"
+       xlink:href="#g4677"
+       id="use9676"
+       inkscape:label="gen_quarter_use9676"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g8205"
-       id="use9375"
-       inkscape:label="gen_quarter_use9375"
+       xlink:href="#g4677"
+       id="use1547"
+       inkscape:label="gen_quarter_use1547"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g8205"
-       id="use6741"
-       inkscape:label="gen_quarter_use6741"
+       xlink:href="#g4677"
+       id="use9568"
+       inkscape:label="gen_quarter_use9568"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g8205"
-       id="use7802"
-       inkscape:label="gen_quarter_use7802"
+       xlink:href="#g4677"
+       id="use846"
+       inkscape:label="gen_quarter_use846"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g8205"
-       id="use4009"
-       inkscape:label="gen_quarter_use4009"
+       xlink:href="#g4677"
+       id="use4882"
+       inkscape:label="gen_quarter_use4882"
        transform="translate(16, 6.5)" />
     <g
-       id="g4746"
-       inkscape:label="gen_half_glyph_f"
+       id="g267"
+       inkscape:label="gen_half_consonant_f"
        transform="translate(48.5, 80)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 4.14032 2.47083 c 0 0.441395 -0.051501 1.89882 -0.32403 3.73332 c -0.344898 2.32165 -1.0438 5.24723 -2.44031 7.48165"
          sodipodi:nodetypes="csc"
-         id="path2325" />
+         id="path2720" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.70242 6.91419 c 1.1026 3.18254 2.03188 4.70498 2.99377 6.83776"
          sodipodi:nodetypes="cc"
-         id="path3944" />
+         id="path3782" />
     </g>
     <use
-       xlink:href="#g4746"
-       id="use2659"
-       inkscape:label="gen_half_use2659"
+       xlink:href="#g267"
+       id="use3525"
+       inkscape:label="gen_half_use3525"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g4746"
-       id="use7177"
-       inkscape:label="gen_half_use7177"
+       xlink:href="#g267"
+       id="use9430"
+       inkscape:label="gen_half_use9430"
        transform="translate(23, 0)" />
     <g
-       id="g1655"
-       inkscape:label="gen_quarter_glyph_f"
+       id="g5471"
+       inkscape:label="gen_quarter_consonant_f"
        transform="translate(48.5, 96.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 4.14032 1.23542 c 0 0.220697 -0.051501 0.94941 -0.32403 1.86666 c -0.344898 1.16082 -1.0438 2.62361 -2.44031 3.74082"
          sodipodi:nodetypes="csc"
-         id="path5877" />
+         id="path6963" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.70242 3.45709 c 1.1026 1.59127 2.03188 2.35249 2.99377 3.41888"
          sodipodi:nodetypes="cc"
-         id="path2899" />
+         id="path7460" />
     </g>
     <use
-       xlink:href="#g1655"
-       id="use894"
-       inkscape:label="gen_quarter_use894"
+       xlink:href="#g5471"
+       id="use346"
+       inkscape:label="gen_quarter_use346"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g1655"
-       id="use8868"
-       inkscape:label="gen_quarter_use8868"
+       xlink:href="#g5471"
+       id="use2083"
+       inkscape:label="gen_quarter_use2083"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g1655"
-       id="use8568"
-       inkscape:label="gen_quarter_use8568"
+       xlink:href="#g5471"
+       id="use8016"
+       inkscape:label="gen_quarter_use8016"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g1655"
-       id="use7431"
-       inkscape:label="gen_quarter_use7431"
+       xlink:href="#g5471"
+       id="use2267"
+       inkscape:label="gen_quarter_use2267"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g1655"
-       id="use1630"
-       inkscape:label="gen_quarter_use1630"
+       xlink:href="#g5471"
+       id="use4535"
+       inkscape:label="gen_quarter_use4535"
        transform="translate(16, 6.5)" />
     <g
-       id="g9961"
-       inkscape:label="gen_half_glyph_v"
+       id="g8233"
+       inkscape:label="gen_half_consonant_v"
        transform="translate(80.5, 80)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 4.42051 2.39459 c 0 0.441395 -0.051501 1.89882 -0.32403 3.73332 c -0.344898 2.32165 -1.0438 5.24723 -2.44031 7.48165"
          sodipodi:nodetypes="csc"
-         id="path2740" />
+         id="path7330" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.70242 6.91419 c 1.1026 3.18254 2.03188 4.70498 2.99377 6.83776"
          sodipodi:nodetypes="cc"
-         id="path9631" />
+         id="path6671" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.5 7 L 6.5 7"
-         id="path2021" />
+         id="path8035" />
     </g>
     <use
-       xlink:href="#g9961"
-       id="use514"
-       inkscape:label="gen_half_use514"
+       xlink:href="#g8233"
+       id="use8669"
+       inkscape:label="gen_half_use8669"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g9961"
-       id="use9042"
-       inkscape:label="gen_half_use9042"
+       xlink:href="#g8233"
+       id="use4272"
+       inkscape:label="gen_half_use4272"
        transform="translate(23, 0)" />
     <g
-       id="g3998"
-       inkscape:label="gen_quarter_glyph_v"
+       id="g3061"
+       inkscape:label="gen_quarter_consonant_v"
        transform="translate(80.5, 96.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 4.42051 1.1973 c 0 0.220697 -0.051501 0.94941 -0.32403 1.86666 c -0.344899 1.16082 -1.0438 2.62361 -2.44031 3.74082"
          sodipodi:nodetypes="csc"
-         id="path142" />
+         id="path9270" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.70242 3.45709 c 1.1026 1.59127 2.03188 2.35249 2.99377 3.41888"
          sodipodi:nodetypes="cc"
-         id="path5158" />
+         id="path6532" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.5 3.5 L 6.5 3.5"
-         id="path6881" />
+         id="path8341" />
     </g>
     <use
-       xlink:href="#g3998"
-       id="use811"
-       inkscape:label="gen_quarter_use811"
+       xlink:href="#g3061"
+       id="use5797"
+       inkscape:label="gen_quarter_use5797"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g3998"
-       id="use2476"
-       inkscape:label="gen_quarter_use2476"
+       xlink:href="#g3061"
+       id="use3872"
+       inkscape:label="gen_quarter_use3872"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g3998"
-       id="use500"
-       inkscape:label="gen_quarter_use500"
+       xlink:href="#g3061"
+       id="use8401"
+       inkscape:label="gen_quarter_use8401"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g3998"
-       id="use7369"
-       inkscape:label="gen_quarter_use7369"
+       xlink:href="#g3061"
+       id="use1095"
+       inkscape:label="gen_quarter_use1095"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g3998"
-       id="use2570"
-       inkscape:label="gen_quarter_use2570"
+       xlink:href="#g3061"
+       id="use2438"
+       inkscape:label="gen_quarter_use2438"
        transform="translate(16, 6.5)" />
     <g
-       id="g6150"
-       inkscape:label="gen_half_glyph_s"
+       id="g7547"
+       inkscape:label="gen_half_consonant_s"
        transform="translate(112.5, 80)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 13.6614 C 3.6512 11.0494 4.82944 7.46037 6.21791 4.01217 L 2 4.01217"
          sodipodi:nodetypes="ccc"
-         id="path6331" />
+         id="path1171" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 13.7276 L 4.13007 9.19946"
          sodipodi:nodetypes="cc"
-         id="path1524" />
+         id="path6905" />
     </g>
     <use
-       xlink:href="#g6150"
-       id="use5628"
-       inkscape:label="gen_half_use5628"
+       xlink:href="#g7547"
+       id="use9797"
+       inkscape:label="gen_half_use9797"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g6150"
-       id="use9260"
-       inkscape:label="gen_half_use9260"
+       xlink:href="#g7547"
+       id="use6427"
+       inkscape:label="gen_half_use6427"
        transform="translate(23, 0)" />
     <g
-       id="g6826"
-       inkscape:label="gen_quarter_glyph_s"
+       id="g7238"
+       inkscape:label="gen_quarter_consonant_s"
        transform="translate(112.5, 96.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 6.83069 C 3.6512 5.5247 4.82944 3.73019 6.21791 2.00608 L 2 2.00608"
          sodipodi:nodetypes="ccc"
-         id="path6684" />
+         id="path7812" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 6.8638 L 4.13007 4.59973"
          sodipodi:nodetypes="cc"
-         id="path496" />
+         id="path1202" />
     </g>
     <use
-       xlink:href="#g6826"
-       id="use2643"
-       inkscape:label="gen_quarter_use2643"
+       xlink:href="#g7238"
+       id="use3461"
+       inkscape:label="gen_quarter_use3461"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g6826"
-       id="use1324"
-       inkscape:label="gen_quarter_use1324"
+       xlink:href="#g7238"
+       id="use2168"
+       inkscape:label="gen_quarter_use2168"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g6826"
-       id="use7589"
-       inkscape:label="gen_quarter_use7589"
+       xlink:href="#g7238"
+       id="use342"
+       inkscape:label="gen_quarter_use342"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g6826"
-       id="use3329"
-       inkscape:label="gen_quarter_use3329"
+       xlink:href="#g7238"
+       id="use4536"
+       inkscape:label="gen_quarter_use4536"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g6826"
-       id="use9457"
-       inkscape:label="gen_quarter_use9457"
+       xlink:href="#g7238"
+       id="use7470"
+       inkscape:label="gen_quarter_use7470"
        transform="translate(16, 6.5)" />
     <g
-       id="g805"
-       inkscape:label="gen_half_glyph_z"
+       id="g2305"
+       inkscape:label="gen_half_consonant_z"
        transform="translate(144.6, 80.1)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 13.6614 C 3.6512 11.0494 4.7125 8.87737 6.10098 5.42916 L 2.60804 5.42916"
          sodipodi:nodetypes="ccc"
-         id="path6467" />
+         id="path6649" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 13.7276 L 4.13007 9.19946"
          sodipodi:nodetypes="cc"
-         id="path6610" />
+         id="path5225" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.44995 2.42917 c -0.557285 2.33334 -1.12261 4 -1.69599 5"
          sodipodi:nodetypes="cc"
-         id="path238" />
+         id="path3656" />
     </g>
     <use
-       xlink:href="#g805"
-       id="use8155"
-       inkscape:label="gen_half_use8155"
+       xlink:href="#g2305"
+       id="use3577"
+       inkscape:label="gen_half_use3577"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g805"
-       id="use3124"
-       inkscape:label="gen_half_use3124"
+       xlink:href="#g2305"
+       id="use5936"
+       inkscape:label="gen_half_use5936"
        transform="translate(23, 0)" />
     <g
-       id="g4497"
-       inkscape:label="gen_quarter_glyph_z"
+       id="g9380"
+       inkscape:label="gen_quarter_consonant_z"
        transform="translate(144.6, 96.6)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 6.83069 C 3.6512 5.5247 4.7125 4.43868 6.10098 2.71458 L 2.60804 2.71458"
          sodipodi:nodetypes="ccc"
-         id="path5858" />
+         id="path316" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 6.8638 L 4.13007 4.59973"
          sodipodi:nodetypes="cc"
-         id="path6480" />
+         id="path5320" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.44995 1.21458 c -0.557285 1.16667 -1.12261 2 -1.69599 2.5"
          sodipodi:nodetypes="cc"
-         id="path6284" />
+         id="path1346" />
     </g>
     <use
-       xlink:href="#g4497"
-       id="use5399"
-       inkscape:label="gen_quarter_use5399"
+       xlink:href="#g9380"
+       id="use4132"
+       inkscape:label="gen_quarter_use4132"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g4497"
-       id="use9865"
-       inkscape:label="gen_quarter_use9865"
+       xlink:href="#g9380"
+       id="use9720"
+       inkscape:label="gen_quarter_use9720"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g4497"
-       id="use5257"
-       inkscape:label="gen_quarter_use5257"
+       xlink:href="#g9380"
+       id="use978"
+       inkscape:label="gen_quarter_use978"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g4497"
-       id="use7728"
-       inkscape:label="gen_quarter_use7728"
+       xlink:href="#g9380"
+       id="use5957"
+       inkscape:label="gen_quarter_use5957"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g4497"
-       id="use3418"
-       inkscape:label="gen_quarter_use3418"
+       xlink:href="#g9380"
+       id="use9376"
+       inkscape:label="gen_quarter_use9376"
        transform="translate(16, 6.5)" />
     <g
-       id="g7197"
-       inkscape:label="gen_half_glyph_c"
+       id="g7555"
+       inkscape:label="gen_half_consonant_c"
        transform="translate(176.4, 79.9)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 13.6614 C 3.6512 11.0494 4.82944 7.46037 6.21791 4.01217 L 2 4.01217"
          sodipodi:nodetypes="ccc"
-         id="path5111" />
+         id="path7944" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 13.7276 L 2.05 5.62916"
          sodipodi:nodetypes="cc"
-         id="path3483" />
+         id="path2197" />
     </g>
     <use
-       xlink:href="#g7197"
-       id="use5632"
-       inkscape:label="gen_half_use5632"
+       xlink:href="#g7555"
+       id="use8120"
+       inkscape:label="gen_half_use8120"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g7197"
-       id="use1466"
-       inkscape:label="gen_half_use1466"
+       xlink:href="#g7555"
+       id="use734"
+       inkscape:label="gen_half_use734"
        transform="translate(23, 0)" />
     <g
-       id="g9020"
-       inkscape:label="gen_quarter_glyph_c"
+       id="g707"
+       inkscape:label="gen_quarter_consonant_c"
        transform="translate(176.4, 96.4)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 6.83069 C 3.6512 5.5247 4.82944 3.73019 6.21791 2.00608 L 2 2.00608"
          sodipodi:nodetypes="ccc"
-         id="path3477" />
+         id="path8399" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 6.8638 L 2.05 2.81458"
          sodipodi:nodetypes="cc"
-         id="path2506" />
+         id="path6020" />
     </g>
     <use
-       xlink:href="#g9020"
-       id="use5910"
-       inkscape:label="gen_quarter_use5910"
+       xlink:href="#g707"
+       id="use8828"
+       inkscape:label="gen_quarter_use8828"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g9020"
-       id="use879"
-       inkscape:label="gen_quarter_use879"
+       xlink:href="#g707"
+       id="use6581"
+       inkscape:label="gen_quarter_use6581"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g9020"
-       id="use2764"
-       inkscape:label="gen_quarter_use2764"
+       xlink:href="#g707"
+       id="use6176"
+       inkscape:label="gen_quarter_use6176"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g9020"
-       id="use4208"
-       inkscape:label="gen_quarter_use4208"
+       xlink:href="#g707"
+       id="use9870"
+       inkscape:label="gen_quarter_use9870"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g9020"
-       id="use1573"
-       inkscape:label="gen_quarter_use1573"
+       xlink:href="#g707"
+       id="use8111"
+       inkscape:label="gen_quarter_use8111"
        transform="translate(16, 6.5)" />
     <g
-       id="g3800"
-       inkscape:label="gen_half_glyph_j"
+       id="g1543"
+       inkscape:label="gen_half_consonant_j"
        transform="translate(208.5, 80)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 13.6614 C 3.6512 11.0494 4.7125 8.87737 6.10098 5.42916 L 2.60804 5.42916"
          sodipodi:nodetypes="ccc"
-         id="path9881" />
+         id="path6361" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 13.7276 L 2.63229 7.14101"
          sodipodi:nodetypes="cc"
-         id="path7819" />
+         id="path9262" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.44995 2.42917 c -0.557285 2.33334 -1.12261 4 -1.69599 5"
          sodipodi:nodetypes="cc"
-         id="path2646" />
+         id="path3423" />
     </g>
     <use
-       xlink:href="#g3800"
-       id="use6958"
-       inkscape:label="gen_half_use6958"
+       xlink:href="#g1543"
+       id="use7785"
+       inkscape:label="gen_half_use7785"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g3800"
-       id="use6507"
-       inkscape:label="gen_half_use6507"
+       xlink:href="#g1543"
+       id="use6974"
+       inkscape:label="gen_half_use6974"
        transform="translate(23, 0)" />
     <g
-       id="g9648"
-       inkscape:label="gen_quarter_glyph_j"
+       id="g6748"
+       inkscape:label="gen_quarter_consonant_j"
        transform="translate(208.5, 96.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 6.83069 C 3.6512 5.5247 4.7125 4.43868 6.10098 2.71458 L 2.60804 2.71458"
          sodipodi:nodetypes="ccc"
-         id="path9340" />
+         id="path8493" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.76458 6.8638 L 2.63229 3.57051"
          sodipodi:nodetypes="cc"
-         id="path3071" />
+         id="path8714" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.44995 1.21458 c -0.557285 1.16667 -1.12261 2 -1.69599 2.5"
          sodipodi:nodetypes="cc"
-         id="path8881" />
+         id="path1169" />
     </g>
     <use
-       xlink:href="#g9648"
-       id="use9537"
-       inkscape:label="gen_quarter_use9537"
+       xlink:href="#g6748"
+       id="use4532"
+       inkscape:label="gen_quarter_use4532"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g9648"
-       id="use7923"
-       inkscape:label="gen_quarter_use7923"
+       xlink:href="#g6748"
+       id="use4313"
+       inkscape:label="gen_quarter_use4313"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g9648"
-       id="use5806"
-       inkscape:label="gen_quarter_use5806"
+       xlink:href="#g6748"
+       id="use9131"
+       inkscape:label="gen_quarter_use9131"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g9648"
-       id="use6231"
-       inkscape:label="gen_quarter_use6231"
+       xlink:href="#g6748"
+       id="use6942"
+       inkscape:label="gen_quarter_use6942"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g9648"
-       id="use4607"
-       inkscape:label="gen_quarter_use4607"
+       xlink:href="#g6748"
+       id="use1427"
+       inkscape:label="gen_quarter_use1427"
        transform="translate(16, 6.5)" />
     <g
-       id="g8341"
-       inkscape:label="gen_half_glyph_x"
+       id="g3186"
+       inkscape:label="gen_half_consonant_x"
        transform="translate(240.5, 80)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 13.6614 C 3.74935 11.6854 5.24093 10.1268 6.21791 4.01217 L 2 4.01217"
          sodipodi:nodetypes="ccc"
-         id="path151" />
+         id="path339" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.61348 9.74912 L 2.5 6"
          sodipodi:nodetypes="cc"
-         id="path6949" />
+         id="path687" />
     </g>
     <use
-       xlink:href="#g8341"
-       id="use8346"
-       inkscape:label="gen_half_use8346"
+       xlink:href="#g3186"
+       id="use9831"
+       inkscape:label="gen_half_use9831"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g8341"
-       id="use5040"
-       inkscape:label="gen_half_use5040"
+       xlink:href="#g3186"
+       id="use5280"
+       inkscape:label="gen_half_use5280"
        transform="translate(23, 0)" />
     <g
-       id="g4027"
-       inkscape:label="gen_quarter_glyph_x"
+       id="g4956"
+       inkscape:label="gen_quarter_consonant_x"
        transform="translate(240.5, 96.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.55441 6.83069 C 3.74935 5.84271 5.24093 5.06342 6.21791 2.00608 L 2 2.00608"
          sodipodi:nodetypes="ccc"
-         id="path1221" />
+         id="path7986" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.61348 4.87456 L 2.5 3"
          sodipodi:nodetypes="cc"
-         id="path7080" />
+         id="path3098" />
     </g>
     <use
-       xlink:href="#g4027"
-       id="use9054"
-       inkscape:label="gen_quarter_use9054"
+       xlink:href="#g4956"
+       id="use283"
+       inkscape:label="gen_quarter_use283"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g4027"
-       id="use1782"
-       inkscape:label="gen_quarter_use1782"
+       xlink:href="#g4956"
+       id="use6855"
+       inkscape:label="gen_quarter_use6855"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g4027"
-       id="use7945"
-       inkscape:label="gen_quarter_use7945"
+       xlink:href="#g4956"
+       id="use4673"
+       inkscape:label="gen_quarter_use4673"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g4027"
-       id="use7965"
-       inkscape:label="gen_quarter_use7965"
+       xlink:href="#g4956"
+       id="use8394"
+       inkscape:label="gen_quarter_use8394"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g4027"
-       id="use7330"
-       inkscape:label="gen_quarter_use7330"
+       xlink:href="#g4956"
+       id="use3034"
+       inkscape:label="gen_quarter_use3034"
        transform="translate(16, 6.5)" />
     <g
-       id="g4958"
-       inkscape:label="gen_half_glyph_h"
+       id="g2259"
+       inkscape:label="gen_half_consonant_h"
        transform="translate(304.5, 80)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.35776 2.53788 c -0.357815 1.46212 -0.974745 3.13471 -1.85781 4.96212 L 5.99995 7.5 c -0.531685 2.50631 -1.90161 5.591 -3 6.5"
          sodipodi:nodetypes="cccc"
-         id="path8818" />
+         id="path9166" />
     </g>
     <use
-       xlink:href="#g4958"
-       id="use384"
-       inkscape:label="gen_half_use384"
+       xlink:href="#g2259"
+       id="use3045"
+       inkscape:label="gen_half_use3045"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g4958"
-       id="use5128"
-       inkscape:label="gen_half_use5128"
+       xlink:href="#g2259"
+       id="use1303"
+       inkscape:label="gen_half_use1303"
        transform="translate(23, 0)" />
     <g
-       id="g7249"
-       inkscape:label="gen_quarter_glyph_h"
+       id="g891"
+       inkscape:label="gen_quarter_consonant_h"
        transform="translate(304.5, 96.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.35776 1.26894 c -0.357815 0.73106 -0.974745 1.56736 -1.85781 2.48106 L 5.99995 3.75 c -0.531685 1.25316 -1.90161 2.7955 -3 3.25"
          sodipodi:nodetypes="cccc"
-         id="path5645" />
+         id="path5897" />
     </g>
     <use
-       xlink:href="#g7249"
-       id="use9132"
-       inkscape:label="gen_quarter_use9132"
+       xlink:href="#g891"
+       id="use7919"
+       inkscape:label="gen_quarter_use7919"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g7249"
-       id="use2397"
-       inkscape:label="gen_quarter_use2397"
+       xlink:href="#g891"
+       id="use3662"
+       inkscape:label="gen_quarter_use3662"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g7249"
-       id="use3627"
-       inkscape:label="gen_quarter_use3627"
+       xlink:href="#g891"
+       id="use5527"
+       inkscape:label="gen_quarter_use5527"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g7249"
-       id="use2949"
-       inkscape:label="gen_quarter_use2949"
+       xlink:href="#g891"
+       id="use3054"
+       inkscape:label="gen_quarter_use3054"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g7249"
-       id="use6636"
-       inkscape:label="gen_quarter_use6636"
+       xlink:href="#g891"
+       id="use3122"
+       inkscape:label="gen_quarter_use3122"
        transform="translate(16, 6.5)" />
     <g
-       id="g9349"
-       inkscape:label="gen_half_glyph_m"
+       id="g3216"
+       inkscape:label="gen_half_consonant_m"
        transform="translate(48.5, 144)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.14056 3 l -1.64056 6 L 6.5 8.74275"
          sodipodi:nodetypes="ccc"
-         id="path3380" />
+         id="path2668" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 5.5 3 L 2.5 14"
          sodipodi:nodetypes="cc"
-         id="path726" />
+         id="path1899" />
     </g>
     <use
-       xlink:href="#g9349"
-       id="use7290"
-       inkscape:label="gen_half_use7290"
+       xlink:href="#g3216"
+       id="use643"
+       inkscape:label="gen_half_use643"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g9349"
-       id="use691"
-       inkscape:label="gen_half_use691"
+       xlink:href="#g3216"
+       id="use7164"
+       inkscape:label="gen_half_use7164"
        transform="translate(23, 0)" />
     <g
-       id="g8216"
-       inkscape:label="gen_quarter_glyph_m"
+       id="g5179"
+       inkscape:label="gen_quarter_consonant_m"
        transform="translate(48.5, 160.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 3.14056 1.5 l -1.64056 3 L 6.5 4.37137"
          sodipodi:nodetypes="ccc"
-         id="path3982" />
+         id="path388" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 5.5 1.5 L 2.5 7"
          sodipodi:nodetypes="cc"
-         id="path9827" />
+         id="path7691" />
     </g>
     <use
-       xlink:href="#g8216"
-       id="use3042"
-       inkscape:label="gen_quarter_use3042"
+       xlink:href="#g5179"
+       id="use2935"
+       inkscape:label="gen_quarter_use2935"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g8216"
-       id="use5895"
-       inkscape:label="gen_quarter_use5895"
+       xlink:href="#g5179"
+       id="use9495"
+       inkscape:label="gen_quarter_use9495"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g8216"
-       id="use6499"
-       inkscape:label="gen_quarter_use6499"
+       xlink:href="#g5179"
+       id="use4119"
+       inkscape:label="gen_quarter_use4119"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g8216"
-       id="use6846"
-       inkscape:label="gen_quarter_use6846"
+       xlink:href="#g5179"
+       id="use3267"
+       inkscape:label="gen_quarter_use3267"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g8216"
-       id="use6567"
-       inkscape:label="gen_quarter_use6567"
+       xlink:href="#g5179"
+       id="use5195"
+       inkscape:label="gen_quarter_use5195"
        transform="translate(16, 6.5)" />
     <g
-       id="g2364"
-       inkscape:label="gen_half_glyph_n"
+       id="g8544"
+       inkscape:label="gen_half_consonant_n"
        transform="translate(80.5, 144)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 2.75 14 L 5.75 3.5 L 2.25 3.50001"
          sodipodi:nodetypes="ccc"
-         id="path6688" />
+         id="path2138" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.25 8 l 5.5 1e-05"
          sodipodi:nodetypes="cc"
-         id="path8471" />
+         id="path6336" />
     </g>
     <use
-       xlink:href="#g2364"
-       id="use734"
-       inkscape:label="gen_half_use734"
+       xlink:href="#g8544"
+       id="use3782"
+       inkscape:label="gen_half_use3782"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g2364"
-       id="use1195"
-       inkscape:label="gen_half_use1195"
+       xlink:href="#g8544"
+       id="use1467"
+       inkscape:label="gen_half_use1467"
        transform="translate(23, 0)" />
     <g
-       id="g4390"
-       inkscape:label="gen_quarter_glyph_n"
+       id="g7287"
+       inkscape:label="gen_quarter_consonant_n"
        transform="translate(80.5, 160.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 2.75 6.99999 L 5.75 1.75 L 2.25 1.75001"
          sodipodi:nodetypes="ccc"
-         id="path3964" />
+         id="path7229" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.25 4 l 5.5 5e-06"
          sodipodi:nodetypes="cc"
-         id="path763" />
+         id="path689" />
     </g>
     <use
-       xlink:href="#g4390"
-       id="use3850"
-       inkscape:label="gen_quarter_use3850"
+       xlink:href="#g7287"
+       id="use5185"
+       inkscape:label="gen_quarter_use5185"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g4390"
-       id="use5638"
-       inkscape:label="gen_quarter_use5638"
+       xlink:href="#g7287"
+       id="use4937"
+       inkscape:label="gen_quarter_use4937"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g4390"
-       id="use3478"
-       inkscape:label="gen_quarter_use3478"
+       xlink:href="#g7287"
+       id="use5106"
+       inkscape:label="gen_quarter_use5106"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g4390"
-       id="use671"
-       inkscape:label="gen_quarter_use671"
+       xlink:href="#g7287"
+       id="use8794"
+       inkscape:label="gen_quarter_use8794"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g4390"
-       id="use237"
-       inkscape:label="gen_quarter_use237"
+       xlink:href="#g7287"
+       id="use4834"
+       inkscape:label="gen_quarter_use4834"
        transform="translate(16, 6.5)" />
     <g
-       id="g6033"
-       inkscape:label="gen_half_glyph_l"
+       id="g7906"
+       inkscape:label="gen_half_consonant_l"
        transform="translate(112.5, 144.129)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.65782 13.8714 L 6.5 6.37138 L 1.5 6.37138"
          sodipodi:nodetypes="ccc"
-         id="path8642" />
+         id="path1857" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.8181 13.8714 L 4.8363 2.59683"
          sodipodi:nodetypes="cc"
-         id="path9373" />
+         id="path8093" />
     </g>
     <use
-       xlink:href="#g6033"
-       id="use8877"
-       inkscape:label="gen_half_use8877"
+       xlink:href="#g7906"
+       id="use7907"
+       inkscape:label="gen_half_use7907"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g6033"
-       id="use8946"
-       inkscape:label="gen_half_use8946"
+       xlink:href="#g7906"
+       id="use3036"
+       inkscape:label="gen_half_use3036"
        transform="translate(23, 0)" />
     <g
-       id="g474"
-       inkscape:label="gen_quarter_glyph_l"
+       id="g5638"
+       inkscape:label="gen_quarter_consonant_l"
        transform="translate(112.5, 160.629)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 4.65782 6.93569 L 6.5 3.18569 L 1.5 3.18569"
          sodipodi:nodetypes="ccc"
-         id="path2213" />
+         id="path6256" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 1.8181 6.93569 L 4.8363 1.29842"
          sodipodi:nodetypes="cc"
-         id="path7839" />
+         id="path7673" />
     </g>
     <use
-       xlink:href="#g474"
-       id="use1264"
-       inkscape:label="gen_quarter_use1264"
+       xlink:href="#g5638"
+       id="use246"
+       inkscape:label="gen_quarter_use246"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g474"
-       id="use9850"
-       inkscape:label="gen_quarter_use9850"
+       xlink:href="#g5638"
+       id="use2479"
+       inkscape:label="gen_quarter_use2479"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g474"
-       id="use7487"
-       inkscape:label="gen_quarter_use7487"
+       xlink:href="#g5638"
+       id="use4969"
+       inkscape:label="gen_quarter_use4969"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g474"
-       id="use154"
-       inkscape:label="gen_quarter_use154"
+       xlink:href="#g5638"
+       id="use5721"
+       inkscape:label="gen_quarter_use5721"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g474"
-       id="use7785"
-       inkscape:label="gen_quarter_use7785"
+       xlink:href="#g5638"
+       id="use480"
+       inkscape:label="gen_quarter_use480"
        transform="translate(16, 6.5)" />
     <g
-       id="g6496"
-       inkscape:label="gen_half_glyph_r"
+       id="g7141"
+       inkscape:label="gen_half_consonant_r"
        transform="translate(144.5, 144)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 4.85968 2.37418 l -2.64471 10.6258 L 6.21497 13"
          sodipodi:nodetypes="ccc"
-         id="path5851" />
+         id="path4676" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.75 6.00001 L 1.5 6.00001"
          sodipodi:nodetypes="cc"
-         id="path1539" />
+         id="path1049" />
     </g>
     <use
-       xlink:href="#g6496"
-       id="use2000"
-       inkscape:label="gen_half_use2000"
+       xlink:href="#g7141"
+       id="use6817"
+       inkscape:label="gen_half_use6817"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g6496"
-       id="use2176"
-       inkscape:label="gen_half_use2176"
+       xlink:href="#g7141"
+       id="use1859"
+       inkscape:label="gen_half_use1859"
        transform="translate(23, 0)" />
     <g
-       id="g517"
-       inkscape:label="gen_quarter_glyph_r"
+       id="g9331"
+       inkscape:label="gen_quarter_consonant_r"
        transform="translate(144.5, 160.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 4.85968 1.18709 l -2.64471 5.31291 L 6.21497 6.5"
          sodipodi:nodetypes="ccc"
-         id="path9860" />
+         id="path9662" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 6.75 3 L 1.5 3"
          sodipodi:nodetypes="cc"
-         id="path1803" />
+         id="path2772" />
     </g>
     <use
-       xlink:href="#g517"
-       id="use6854"
-       inkscape:label="gen_quarter_use6854"
+       xlink:href="#g9331"
+       id="use7887"
+       inkscape:label="gen_quarter_use7887"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g517"
-       id="use653"
-       inkscape:label="gen_quarter_use653"
+       xlink:href="#g9331"
+       id="use6204"
+       inkscape:label="gen_quarter_use6204"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g517"
-       id="use8172"
-       inkscape:label="gen_quarter_use8172"
+       xlink:href="#g9331"
+       id="use9408"
+       inkscape:label="gen_quarter_use9408"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g517"
-       id="use7497"
-       inkscape:label="gen_quarter_use7497"
+       xlink:href="#g9331"
+       id="use1983"
+       inkscape:label="gen_quarter_use1983"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g517"
-       id="use8251"
-       inkscape:label="gen_quarter_use8251"
+       xlink:href="#g9331"
+       id="use7478"
+       inkscape:label="gen_quarter_use7478"
        transform="translate(16, 6.5)" />
     <g
-       id="g7079"
-       inkscape:label="gen_half_glyph_q"
+       id="g7454"
+       inkscape:label="gen_half_consonant_q"
        transform="translate(240.5, 144)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.74995 13.5 L 1.74995 4.5 l 4.5 1e-05 L 6.24995 13.5"
-         id="path1411" />
+         id="path8494" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.74995 12.5 L 6.24995 12.5"
          sodipodi:nodetypes="cc"
-         id="path5294" />
+         id="path5903" />
     </g>
     <use
-       xlink:href="#g7079"
-       id="use2512"
-       inkscape:label="gen_half_use2512"
+       xlink:href="#g7454"
+       id="use3315"
+       inkscape:label="gen_half_use3315"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g7079"
-       id="use3740"
-       inkscape:label="gen_half_use3740"
+       xlink:href="#g7454"
+       id="use1847"
+       inkscape:label="gen_half_use1847"
        transform="translate(23, 0)" />
     <g
-       id="g6129"
-       inkscape:label="gen_quarter_glyph_q"
+       id="g1556"
+       inkscape:label="gen_quarter_consonant_q"
        transform="translate(240.5, 160.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.74995 6.75 L 1.74995 2.25 l 4.5 5e-06 L 6.24995 6.75001"
-         id="path4392" />
+         id="path7221" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.74995 6.25001 L 6.24995 6.25001"
          sodipodi:nodetypes="cc"
-         id="path2107" />
+         id="path2222" />
     </g>
     <use
-       xlink:href="#g6129"
-       id="use7961"
-       inkscape:label="gen_quarter_use7961"
+       xlink:href="#g1556"
+       id="use3767"
+       inkscape:label="gen_quarter_use3767"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g6129"
-       id="use5957"
-       inkscape:label="gen_quarter_use5957"
+       xlink:href="#g1556"
+       id="use9742"
+       inkscape:label="gen_quarter_use9742"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g6129"
-       id="use8328"
-       inkscape:label="gen_quarter_use8328"
+       xlink:href="#g1556"
+       id="use9319"
+       inkscape:label="gen_quarter_use9319"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g6129"
-       id="use5473"
-       inkscape:label="gen_quarter_use5473"
+       xlink:href="#g1556"
+       id="use9305"
+       inkscape:label="gen_quarter_use9305"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g6129"
-       id="use494"
-       inkscape:label="gen_quarter_use494"
+       xlink:href="#g1556"
+       id="use7152"
+       inkscape:label="gen_quarter_use7152"
        transform="translate(16, 6.5)" />
     <g
-       id="g1452"
-       inkscape:label="gen_half_glyph_w"
+       id="g1920"
+       inkscape:label="gen_half_consonant_w"
        transform="translate(272.5, 144)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.99995 13.5 L 1.99995 3.5 L 5.99995 3.5 L 5.99995 13.5"
          sodipodi:nodetypes="cccc"
-         id="path5694" />
+         id="path8376" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.74995 12.5 L 6.24995 12.5"
          sodipodi:nodetypes="cc"
-         id="path6051" />
+         id="path4994" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 2 7.99999 L 6 7.99999"
-         id="path5749" />
+         id="path9464" />
     </g>
     <use
-       xlink:href="#g1452"
-       id="use7432"
-       inkscape:label="gen_half_use7432"
+       xlink:href="#g1920"
+       id="use3190"
+       inkscape:label="gen_half_use3190"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g1452"
-       id="use6257"
-       inkscape:label="gen_half_use6257"
+       xlink:href="#g1920"
+       id="use6520"
+       inkscape:label="gen_half_use6520"
        transform="translate(23, 0)" />
     <g
-       id="g6831"
-       inkscape:label="gen_quarter_glyph_w"
+       id="g8426"
+       inkscape:label="gen_quarter_consonant_w"
        transform="translate(272.5, 160.5)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.99995 6.75 L 1.99995 1.75 L 5.99995 1.75 L 5.99995 6.75"
          sodipodi:nodetypes="cccc"
-         id="path2963" />
+         id="path9045" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="m 1.74995 6.25001 L 6.24995 6.25001"
          sodipodi:nodetypes="cc"
-         id="path5674" />
+         id="path9362" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
          d="M 2 4 L 6 4"
-         id="path3974" />
+         id="path6439" />
     </g>
     <use
-       xlink:href="#g6831"
-       id="use2675"
-       inkscape:label="gen_quarter_use2675"
+       xlink:href="#g8426"
+       id="use8561"
+       inkscape:label="gen_quarter_use8561"
        transform="translate(7, 0)" />
     <use
-       xlink:href="#g6831"
-       id="use3448"
-       inkscape:label="gen_quarter_use3448"
+       xlink:href="#g8426"
+       id="use6997"
+       inkscape:label="gen_quarter_use6997"
        transform="translate(0, 6.5)" />
     <use
-       xlink:href="#g6831"
-       id="use3022"
-       inkscape:label="gen_quarter_use3022"
+       xlink:href="#g8426"
+       id="use2556"
+       inkscape:label="gen_quarter_use2556"
        transform="translate(7, 6.5)" />
     <use
-       xlink:href="#g6831"
-       id="use2134"
-       inkscape:label="gen_quarter_use2134"
+       xlink:href="#g8426"
+       id="use4741"
+       inkscape:label="gen_quarter_use4741"
        transform="translate(16, 0)" />
     <use
-       xlink:href="#g6831"
-       id="use1724"
-       inkscape:label="gen_quarter_use1724"
+       xlink:href="#g8426"
+       id="use7599"
+       inkscape:label="gen_quarter_use7599"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g5124"
+       inkscape:label="gen_halfhr_vowelhr_a"
+       transform="translate(400, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99989 2 L 2.99989 6.5 L 13.9999 6.5"
+         id="path5821" />
+    </g>
+    <use
+       xlink:href="#g5124"
+       id="use7309"
+       inkscape:label="gen_halfhr_use7309"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g5124"
+       id="use3137"
+       inkscape:label="gen_halfhr_use3137"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g3571"
+       inkscape:label="gen_quarter_vowelhr_a"
+       transform="translate(400.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 2 L 1.49995 6.5 L 6.99995 6.5"
+         id="path7164" />
+    </g>
+    <use
+       xlink:href="#g3571"
+       id="use6043"
+       inkscape:label="gen_quarter_use6043"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g3571"
+       id="use9876"
+       inkscape:label="gen_quarter_use9876"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g3571"
+       id="use2744"
+       inkscape:label="gen_quarter_use2744"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g3571"
+       id="use945"
+       inkscape:label="gen_quarter_use945"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3571"
+       id="use9065"
+       inkscape:label="gen_quarter_use9065"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g9602"
+       inkscape:label="gen_halfhr_vowelhr_e"
+       transform="translate(432, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99989 2 L 2.99989 6.5 L 13.9999 6.5"
+         id="path4588" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 8.49989 2.5 L 8.49989 6.5"
+         id="path7626" />
+    </g>
+    <use
+       xlink:href="#g9602"
+       id="use6536"
+       inkscape:label="gen_halfhr_use6536"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9602"
+       id="use7441"
+       inkscape:label="gen_halfhr_use7441"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g3126"
+       inkscape:label="gen_quarter_vowelhr_e"
+       transform="translate(432.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 2 L 1.49995 6.5 L 6.99995 6.5"
+         id="path3430" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.24995 2.5 L 4.24995 6.5"
+         id="path7671" />
+    </g>
+    <use
+       xlink:href="#g3126"
+       id="use5978"
+       inkscape:label="gen_quarter_use5978"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g3126"
+       id="use7005"
+       inkscape:label="gen_quarter_use7005"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g3126"
+       id="use8643"
+       inkscape:label="gen_quarter_use8643"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g3126"
+       id="use7813"
+       inkscape:label="gen_quarter_use7813"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3126"
+       id="use4222"
+       inkscape:label="gen_quarter_use4222"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g9322"
+       inkscape:label="gen_halfhr_vowelhr_i"
+       transform="translate(464, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 8 2 L 8 6.5"
+         sodipodi:nodetypes="cc"
+         id="path9809" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99989 6.5 l 12 -1e-06"
+         sodipodi:nodetypes="cc"
+         id="path7786" />
+    </g>
+    <use
+       xlink:href="#g9322"
+       id="use3184"
+       inkscape:label="gen_halfhr_use3184"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9322"
+       id="use7480"
+       inkscape:label="gen_halfhr_use7480"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g8613"
+       inkscape:label="gen_quarter_vowelhr_i"
+       transform="translate(464.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4 2 L 4 6.5"
+         sodipodi:nodetypes="cc"
+         id="path8002" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999946 6.5 l 5.99999 -1e-06"
+         sodipodi:nodetypes="cc"
+         id="path6973" />
+    </g>
+    <use
+       xlink:href="#g8613"
+       id="use5336"
+       inkscape:label="gen_quarter_use5336"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8613"
+       id="use6284"
+       inkscape:label="gen_quarter_use6284"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8613"
+       id="use5003"
+       inkscape:label="gen_quarter_use5003"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8613"
+       id="use8743"
+       inkscape:label="gen_quarter_use8743"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8613"
+       id="use3527"
+       inkscape:label="gen_quarter_use3527"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g1129"
+       inkscape:label="gen_halfhr_vowelhr_o"
+       transform="translate(496, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99988 2 L 2.99988 6.5 L 13.9999 6.5"
+         id="path6885" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99989 3.75 L 12.9999 3.75"
+         sodipodi:nodetypes="cc"
+         id="path633" />
+    </g>
+    <use
+       xlink:href="#g1129"
+       id="use2499"
+       inkscape:label="gen_halfhr_use2499"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1129"
+       id="use5192"
+       inkscape:label="gen_halfhr_use5192"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g8277"
+       inkscape:label="gen_quarter_vowelhr_o"
+       transform="translate(496.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49994 2 L 1.49994 6.5 L 6.99994 6.5"
+         id="path6990" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49994 3.75 L 6.49994 3.75"
+         sodipodi:nodetypes="cc"
+         id="path9644" />
+    </g>
+    <use
+       xlink:href="#g8277"
+       id="use4209"
+       inkscape:label="gen_quarter_use4209"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8277"
+       id="use8874"
+       inkscape:label="gen_quarter_use8874"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8277"
+       id="use7727"
+       inkscape:label="gen_quarter_use7727"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8277"
+       id="use14"
+       inkscape:label="gen_quarter_use14"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8277"
+       id="use5662"
+       inkscape:label="gen_quarter_use5662"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g2644"
+       inkscape:label="gen_halfhr_vowelhr_u"
+       transform="translate(528, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99989 6.5 l 12 -1e-06"
+         sodipodi:nodetypes="cc"
+         id="path5742" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.99988 3 L 11.9999 3"
+         id="path7364" />
+    </g>
+    <use
+       xlink:href="#g2644"
+       id="use610"
+       inkscape:label="gen_halfhr_use610"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g2644"
+       id="use5973"
+       inkscape:label="gen_halfhr_use5973"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g4646"
+       inkscape:label="gen_quarter_vowelhr_u"
+       transform="translate(528.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999946 6.5 l 5.99999 -1e-06"
+         sodipodi:nodetypes="cc"
+         id="path568" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99994 3 L 5.99994 3"
+         id="path5591" />
+    </g>
+    <use
+       xlink:href="#g4646"
+       id="use9612"
+       inkscape:label="gen_quarter_use9612"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g4646"
+       id="use8335"
+       inkscape:label="gen_quarter_use8335"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g4646"
+       id="use4299"
+       inkscape:label="gen_quarter_use4299"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g4646"
+       id="use6055"
+       inkscape:label="gen_quarter_use6055"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g4646"
+       id="use2345"
+       inkscape:label="gen_quarter_use2345"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g1850"
+       inkscape:label="gen_halfhr_vowelhr_y"
+       transform="translate(560, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99989 6.5 l 12 -1e-06"
+         sodipodi:nodetypes="cc"
+         id="path3535" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.00001 2.75 L 12 2.75"
+         id="path5306" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 7.99988 2.75 L 7.99988 6.5"
+         id="path5990" />
+    </g>
+    <use
+       xlink:href="#g1850"
+       id="use1803"
+       inkscape:label="gen_halfhr_use1803"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1850"
+       id="use8399"
+       inkscape:label="gen_halfhr_use8399"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g9793"
+       inkscape:label="gen_quarter_vowelhr_y"
+       transform="translate(560.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999946 6.5 l 5.99999 -1e-06"
+         sodipodi:nodetypes="cc"
+         id="path3590" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.00001 2.75 L 6 2.75"
+         id="path2699" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.99994 2.75 L 3.99994 6.5"
+         id="path2091" />
+    </g>
+    <use
+       xlink:href="#g9793"
+       id="use2783"
+       inkscape:label="gen_quarter_use2783"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g9793"
+       id="use8503"
+       inkscape:label="gen_quarter_use8503"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g9793"
+       id="use7805"
+       inkscape:label="gen_quarter_use7805"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g9793"
+       id="use9417"
+       inkscape:label="gen_quarter_use9417"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9793"
+       id="use4975"
+       inkscape:label="gen_quarter_use4975"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g4664"
+       inkscape:label="gen_halfhr_vowelhr_a_s"
+       transform="translate(400, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99989 2 L 2.99989 6.5 L 13.9999 6.5 l -1 -2"
+         sodipodi:nodetypes="cccc"
+         id="path3094" />
+    </g>
+    <use
+       xlink:href="#g4664"
+       id="use1203"
+       inkscape:label="gen_halfhr_use1203"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g4664"
+       id="use9738"
+       inkscape:label="gen_halfhr_use9738"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g8870"
+       inkscape:label="gen_quarter_vowelhr_a_s"
+       transform="translate(400.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 2 L 1.49995 6.5 L 6.99995 6.5 l -0.5 -2"
+         sodipodi:nodetypes="cccc"
+         id="path7638" />
+    </g>
+    <use
+       xlink:href="#g8870"
+       id="use5823"
+       inkscape:label="gen_quarter_use5823"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8870"
+       id="use3546"
+       inkscape:label="gen_quarter_use3546"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8870"
+       id="use4827"
+       inkscape:label="gen_quarter_use4827"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8870"
+       id="use1369"
+       inkscape:label="gen_quarter_use1369"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8870"
+       id="use1258"
+       inkscape:label="gen_quarter_use1258"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g4544"
+       inkscape:label="gen_halfhr_vowelhr_e_s"
+       transform="translate(432, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99989 2 L 2.99989 6.5 L 13.9999 6.5 l -1 -2"
+         sodipodi:nodetypes="cccc"
+         id="path8445" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 8.49989 2.5 L 8.49989 6.5"
+         id="path3095" />
+    </g>
+    <use
+       xlink:href="#g4544"
+       id="use3604"
+       inkscape:label="gen_halfhr_use3604"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g4544"
+       id="use7519"
+       inkscape:label="gen_halfhr_use7519"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g6172"
+       inkscape:label="gen_quarter_vowelhr_e_s"
+       transform="translate(432.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 2 L 1.49995 6.5 L 6.99995 6.5 l -0.5 -2"
+         sodipodi:nodetypes="cccc"
+         id="path4372" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.24995 2.5 L 4.24995 6.5"
+         id="path2163" />
+    </g>
+    <use
+       xlink:href="#g6172"
+       id="use4315"
+       inkscape:label="gen_quarter_use4315"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g6172"
+       id="use6331"
+       inkscape:label="gen_quarter_use6331"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g6172"
+       id="use6605"
+       inkscape:label="gen_quarter_use6605"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g6172"
+       id="use8474"
+       inkscape:label="gen_quarter_use8474"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g6172"
+       id="use6931"
+       inkscape:label="gen_quarter_use6931"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g7866"
+       inkscape:label="gen_halfhr_vowelhr_i_s"
+       transform="translate(464, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 8 2 L 8 6.5"
+         sodipodi:nodetypes="cc"
+         id="path7325" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99989 6.5 l 12 -1e-06 l -0.99999 -2"
+         sodipodi:nodetypes="ccc"
+         id="path5168" />
+    </g>
+    <use
+       xlink:href="#g7866"
+       id="use4482"
+       inkscape:label="gen_halfhr_use4482"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g7866"
+       id="use7358"
+       inkscape:label="gen_halfhr_use7358"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g4092"
+       inkscape:label="gen_quarter_vowelhr_i_s"
+       transform="translate(464.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4 2 L 4 6.5"
+         sodipodi:nodetypes="cc"
+         id="path5819" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999946 6.5 l 5.99999 -1e-06 l -0.499995 -2"
+         sodipodi:nodetypes="ccc"
+         id="path9266" />
+    </g>
+    <use
+       xlink:href="#g4092"
+       id="use4248"
+       inkscape:label="gen_quarter_use4248"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g4092"
+       id="use804"
+       inkscape:label="gen_quarter_use804"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g4092"
+       id="use5239"
+       inkscape:label="gen_quarter_use5239"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g4092"
+       id="use7171"
+       inkscape:label="gen_quarter_use7171"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g4092"
+       id="use3657"
+       inkscape:label="gen_quarter_use3657"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g9168"
+       inkscape:label="gen_halfhr_vowelhr_o_s"
+       transform="translate(496, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99988 2 L 2.99988 6.5 L 13.9999 6.5 l -1 -2"
+         sodipodi:nodetypes="cccc"
+         id="path1269" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99989 3.75 L 10.9999 3.75"
+         sodipodi:nodetypes="cc"
+         id="path3849" />
+    </g>
+    <use
+       xlink:href="#g9168"
+       id="use1865"
+       inkscape:label="gen_halfhr_use1865"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9168"
+       id="use2129"
+       inkscape:label="gen_halfhr_use2129"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g4836"
+       inkscape:label="gen_quarter_vowelhr_o_s"
+       transform="translate(496.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49994 2 L 1.49994 6.5 L 6.99994 6.5 l -0.5 -2"
+         sodipodi:nodetypes="cccc"
+         id="path8879" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49994 3.75 L 5.49994 3.75"
+         sodipodi:nodetypes="cc"
+         id="path7215" />
+    </g>
+    <use
+       xlink:href="#g4836"
+       id="use5800"
+       inkscape:label="gen_quarter_use5800"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g4836"
+       id="use8113"
+       inkscape:label="gen_quarter_use8113"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g4836"
+       id="use2037"
+       inkscape:label="gen_quarter_use2037"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g4836"
+       id="use2915"
+       inkscape:label="gen_quarter_use2915"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g4836"
+       id="use4739"
+       inkscape:label="gen_quarter_use4739"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g2337"
+       inkscape:label="gen_halfhr_vowelhr_u_s"
+       transform="translate(528, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99989 6.5 l 12 -1e-06 l -0.99999 -2"
+         sodipodi:nodetypes="ccc"
+         id="path214" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.99988 3 L 11.9999 3"
+         id="path9187" />
+    </g>
+    <use
+       xlink:href="#g2337"
+       id="use1764"
+       inkscape:label="gen_halfhr_use1764"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g2337"
+       id="use8357"
+       inkscape:label="gen_halfhr_use8357"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g8943"
+       inkscape:label="gen_quarter_vowelhr_u_s"
+       transform="translate(528.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999946 6.5 l 5.99999 -1e-06 l -0.499995 -2"
+         sodipodi:nodetypes="ccc"
+         id="path1059" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99994 3 L 5.99994 3"
+         id="path532" />
+    </g>
+    <use
+       xlink:href="#g8943"
+       id="use6039"
+       inkscape:label="gen_quarter_use6039"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8943"
+       id="use1917"
+       inkscape:label="gen_quarter_use1917"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8943"
+       id="use2169"
+       inkscape:label="gen_quarter_use2169"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8943"
+       id="use2764"
+       inkscape:label="gen_quarter_use2764"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8943"
+       id="use8875"
+       inkscape:label="gen_quarter_use8875"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g1194"
+       inkscape:label="gen_halfhr_vowelhr_y_s"
+       transform="translate(560, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99989 6.5 l 12 -1e-06 l -0.99999 -2"
+         sodipodi:nodetypes="ccc"
+         id="path6706" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.00001 2.75 L 12 2.75"
+         id="path7887" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 7.99988 2.75 L 7.99988 6.5"
+         id="path3256" />
+    </g>
+    <use
+       xlink:href="#g1194"
+       id="use3679"
+       inkscape:label="gen_halfhr_use3679"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1194"
+       id="use9289"
+       inkscape:label="gen_halfhr_use9289"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g8373"
+       inkscape:label="gen_quarter_vowelhr_y_s"
+       transform="translate(560.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999946 6.5 l 5.99999 -1e-06 l -0.499995 -2"
+         sodipodi:nodetypes="ccc"
+         id="path4113" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.00001 2.75 L 6 2.75"
+         id="path8953" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.99994 2.75 L 3.99994 6.5"
+         id="path2279" />
+    </g>
+    <use
+       xlink:href="#g8373"
+       id="use3911"
+       inkscape:label="gen_quarter_use3911"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8373"
+       id="use6081"
+       inkscape:label="gen_quarter_use6081"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8373"
+       id="use4042"
+       inkscape:label="gen_quarter_use4042"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8373"
+       id="use8330"
+       inkscape:label="gen_quarter_use8330"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8373"
+       id="use5464"
+       inkscape:label="gen_quarter_use5464"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g8665"
+       inkscape:label="gen_half_vowel_a"
+       transform="translate(400.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 3.5 L 6.49999 3.5 L 6.49999 14"
+         sodipodi:nodetypes="ccc"
+         id="path3620" />
+    </g>
+    <use
+       xlink:href="#g8665"
+       id="use2312"
+       inkscape:label="gen_half_use2312"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8665"
+       id="use7778"
+       inkscape:label="gen_half_use7778"
+       transform="translate(23, 0)" />
+    <g
+       id="g9138"
+       inkscape:label="gen_quarter_vowel_a"
+       transform="translate(400.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 1.75 L 6.49999 1.75 L 6.49999 7"
+         sodipodi:nodetypes="ccc"
+         id="path7312" />
+    </g>
+    <use
+       xlink:href="#g9138"
+       id="use4638"
+       inkscape:label="gen_quarter_use4638"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g9138"
+       id="use1675"
+       inkscape:label="gen_quarter_use1675"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g9138"
+       id="use7944"
+       inkscape:label="gen_quarter_use7944"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g9138"
+       id="use6016"
+       inkscape:label="gen_quarter_use6016"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9138"
+       id="use1663"
+       inkscape:label="gen_quarter_use1663"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g3970"
+       inkscape:label="gen_half_vowel_e"
+       transform="translate(432.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 3.5 L 6.49999 3.5 L 6.49999 14"
+         sodipodi:nodetypes="ccc"
+         id="path2125" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99995 9.5 l 4.5 -2"
+         sodipodi:nodetypes="cc"
+         id="path5410" />
+    </g>
+    <use
+       xlink:href="#g3970"
+       id="use6762"
+       inkscape:label="gen_half_use6762"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3970"
+       id="use7525"
+       inkscape:label="gen_half_use7525"
+       transform="translate(23, 0)" />
+    <g
+       id="g658"
+       inkscape:label="gen_quarter_vowel_e"
+       transform="translate(432.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 1.75 L 6.49999 1.75 L 6.49999 7"
+         sodipodi:nodetypes="ccc"
+         id="path8247" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99995 4.75 l 4.5 -1"
+         sodipodi:nodetypes="cc"
+         id="path5022" />
+    </g>
+    <use
+       xlink:href="#g658"
+       id="use3528"
+       inkscape:label="gen_quarter_use3528"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g658"
+       id="use529"
+       inkscape:label="gen_quarter_use529"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g658"
+       id="use2418"
+       inkscape:label="gen_quarter_use2418"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g658"
+       id="use6417"
+       inkscape:label="gen_quarter_use6417"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g658"
+       id="use9619"
+       inkscape:label="gen_quarter_use9619"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g6905"
+       inkscape:label="gen_half_vowel_i"
+       transform="translate(464.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 6.24997 2.5 l 9e-06 11.5"
+         sodipodi:nodetypes="cc"
+         id="path262" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49999 9 L 6.24998 7.5"
+         sodipodi:nodetypes="cc"
+         id="path549" />
+    </g>
+    <use
+       xlink:href="#g6905"
+       id="use9002"
+       inkscape:label="gen_half_use9002"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g6905"
+       id="use1410"
+       inkscape:label="gen_half_use1410"
+       transform="translate(23, 0)" />
+    <g
+       id="g3618"
+       inkscape:label="gen_quarter_vowel_i"
+       transform="translate(464.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 6.24997 1.25 l 9e-06 5.75"
+         sodipodi:nodetypes="cc"
+         id="path8500" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49999 4.5 L 6.24998 3.75"
+         sodipodi:nodetypes="cc"
+         id="path7622" />
+    </g>
+    <use
+       xlink:href="#g3618"
+       id="use6781"
+       inkscape:label="gen_quarter_use6781"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g3618"
+       id="use8593"
+       inkscape:label="gen_quarter_use8593"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g3618"
+       id="use477"
+       inkscape:label="gen_quarter_use477"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g3618"
+       id="use4400"
+       inkscape:label="gen_quarter_use4400"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3618"
+       id="use7385"
+       inkscape:label="gen_quarter_use7385"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g7384"
+       inkscape:label="gen_half_vowel_o"
+       transform="translate(496.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.50001 3.5 L 6.5 3.5 L 6.5 14"
+         sodipodi:nodetypes="ccc"
+         id="path614" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 3.24994 5 c 0 0 0.0306625 3.56199 -0.11693 5 c -0.147593 1.43801 -0.633136 3.5 -0.633136 3.5"
+         sodipodi:nodetypes="czc"
+         id="path6672" />
+    </g>
+    <use
+       xlink:href="#g7384"
+       id="use8988"
+       inkscape:label="gen_half_use8988"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g7384"
+       id="use5121"
+       inkscape:label="gen_half_use5121"
+       transform="translate(23, 0)" />
+    <g
+       id="g8704"
+       inkscape:label="gen_quarter_vowel_o"
+       transform="translate(496.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.50001 1.75 L 6.5 1.75 L 6.5 7"
+         sodipodi:nodetypes="ccc"
+         id="path8941" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 3.24994 2.5 c 0 0 0.0306625 1.781 -0.11693 2.5 c -0.147593 0.719003 -0.633136 1.75 -0.633136 1.75"
+         sodipodi:nodetypes="czc"
+         id="path7446" />
+    </g>
+    <use
+       xlink:href="#g8704"
+       id="use8834"
+       inkscape:label="gen_quarter_use8834"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8704"
+       id="use219"
+       inkscape:label="gen_quarter_use219"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8704"
+       id="use5961"
+       inkscape:label="gen_quarter_use5961"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8704"
+       id="use3860"
+       inkscape:label="gen_quarter_use3860"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8704"
+       id="use1186"
+       inkscape:label="gen_quarter_use1186"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g5770"
+       inkscape:label="gen_half_vowel_u"
+       transform="translate(528.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 6.24997 2.5 l 9e-06 11.5"
+         sodipodi:nodetypes="cc"
+         id="path3612" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.49998 4 L 2.49998 12.5"
+         sodipodi:nodetypes="cc"
+         id="path1636" />
+    </g>
+    <use
+       xlink:href="#g5770"
+       id="use5251"
+       inkscape:label="gen_half_use5251"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g5770"
+       id="use2160"
+       inkscape:label="gen_half_use2160"
+       transform="translate(23, 0)" />
+    <g
+       id="g7832"
+       inkscape:label="gen_quarter_vowel_u"
+       transform="translate(528.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 6.24997 1.25 l 9e-06 5.75"
+         sodipodi:nodetypes="cc"
+         id="path6861" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.49998 2 L 2.49998 6.25"
+         sodipodi:nodetypes="cc"
+         id="path7019" />
+    </g>
+    <use
+       xlink:href="#g7832"
+       id="use2336"
+       inkscape:label="gen_quarter_use2336"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g7832"
+       id="use3280"
+       inkscape:label="gen_quarter_use3280"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g7832"
+       id="use1293"
+       inkscape:label="gen_quarter_use1293"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g7832"
+       id="use5229"
+       inkscape:label="gen_quarter_use5229"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g7832"
+       id="use1270"
+       inkscape:label="gen_quarter_use1270"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g8829"
+       inkscape:label="gen_half_vowel_y"
+       transform="translate(560.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 6.24997 2.5 l 9e-06 11.5"
+         sodipodi:nodetypes="cc"
+         id="path5044" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24998 4 L 2.24998 12.5"
+         sodipodi:nodetypes="cc"
+         id="path3187" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24994 8 L 6.24994 8"
+         sodipodi:nodetypes="cc"
+         id="path2388" />
+    </g>
+    <use
+       xlink:href="#g8829"
+       id="use3242"
+       inkscape:label="gen_half_use3242"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8829"
+       id="use9324"
+       inkscape:label="gen_half_use9324"
+       transform="translate(23, 0)" />
+    <g
+       id="g7606"
+       inkscape:label="gen_quarter_vowel_y"
+       transform="translate(560.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 6.24997 1.25 l 9e-06 5.75"
+         sodipodi:nodetypes="cc"
+         id="path1819" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24998 2 L 2.24998 6.25"
+         sodipodi:nodetypes="cc"
+         id="path7630" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24994 4 L 6.24994 4"
+         sodipodi:nodetypes="cc"
+         id="path4512" />
+    </g>
+    <use
+       xlink:href="#g7606"
+       id="use3892"
+       inkscape:label="gen_quarter_use3892"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g7606"
+       id="use3187"
+       inkscape:label="gen_quarter_use3187"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g7606"
+       id="use9672"
+       inkscape:label="gen_quarter_use9672"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g7606"
+       id="use2784"
+       inkscape:label="gen_quarter_use2784"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g7606"
+       id="use335"
+       inkscape:label="gen_quarter_use335"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g1922"
+       inkscape:label="gen_half_vowel_a_s"
+       transform="translate(400.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 3.5 L 6.49999 3.5 L 6.49999 14 L 4.5 12"
+         sodipodi:nodetypes="ccc"
+         id="path603" />
+    </g>
+    <use
+       xlink:href="#g1922"
+       id="use4515"
+       inkscape:label="gen_half_use4515"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1922"
+       id="use6991"
+       inkscape:label="gen_half_use6991"
+       transform="translate(23, 0)" />
+    <g
+       id="g7964"
+       inkscape:label="gen_quarter_vowel_a_s"
+       transform="translate(400.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 1.75 L 6.49999 1.75 L 6.49999 7 L 4.5 6"
+         sodipodi:nodetypes="ccc"
+         id="path1533" />
+    </g>
+    <use
+       xlink:href="#g7964"
+       id="use3193"
+       inkscape:label="gen_quarter_use3193"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g7964"
+       id="use3008"
+       inkscape:label="gen_quarter_use3008"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g7964"
+       id="use9343"
+       inkscape:label="gen_quarter_use9343"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g7964"
+       id="use1491"
+       inkscape:label="gen_quarter_use1491"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g7964"
+       id="use5307"
+       inkscape:label="gen_quarter_use5307"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g9828"
+       inkscape:label="gen_half_vowel_e_s"
+       transform="translate(432.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 3.5 L 6.49999 3.5 L 6.49999 14 L 4.49994 12"
+         sodipodi:nodetypes="ccc"
+         id="path5085" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99995 9.5 l 4.5 -2"
+         sodipodi:nodetypes="cc"
+         id="path5392" />
+    </g>
+    <use
+       xlink:href="#g9828"
+       id="use8582"
+       inkscape:label="gen_half_use8582"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9828"
+       id="use5153"
+       inkscape:label="gen_half_use5153"
+       transform="translate(23, 0)" />
+    <g
+       id="g6627"
+       inkscape:label="gen_quarter_vowel_e_s"
+       transform="translate(432.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 1.75 L 6.49999 1.75 L 6.49999 7 L 4.49994 6"
+         sodipodi:nodetypes="ccc"
+         id="path7145" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.99995 4.75 l 4.5 -1"
+         sodipodi:nodetypes="cc"
+         id="path4770" />
+    </g>
+    <use
+       xlink:href="#g6627"
+       id="use1548"
+       inkscape:label="gen_quarter_use1548"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g6627"
+       id="use7185"
+       inkscape:label="gen_quarter_use7185"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g6627"
+       id="use6038"
+       inkscape:label="gen_quarter_use6038"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g6627"
+       id="use22"
+       inkscape:label="gen_quarter_use22"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g6627"
+       id="use5139"
+       inkscape:label="gen_quarter_use5139"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g6931"
+       inkscape:label="gen_half_vowel_i_s"
+       transform="translate(464.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.24997 2.5 L 6.24998 14 L 4.24995 12"
+         sodipodi:nodetypes="ccc"
+         id="path6082" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49999 9 L 6.24998 7.5"
+         sodipodi:nodetypes="cc"
+         id="path2934" />
+    </g>
+    <use
+       xlink:href="#g6931"
+       id="use2640"
+       inkscape:label="gen_half_use2640"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g6931"
+       id="use4171"
+       inkscape:label="gen_half_use4171"
+       transform="translate(23, 0)" />
+    <g
+       id="g6629"
+       inkscape:label="gen_quarter_vowel_i_s"
+       transform="translate(464.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.24997 1.25 L 6.24998 7 L 4.24995 6"
+         sodipodi:nodetypes="ccc"
+         id="path8380" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49999 4.5 L 6.24998 3.75"
+         sodipodi:nodetypes="cc"
+         id="path5963" />
+    </g>
+    <use
+       xlink:href="#g6629"
+       id="use3707"
+       inkscape:label="gen_quarter_use3707"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g6629"
+       id="use5394"
+       inkscape:label="gen_quarter_use5394"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g6629"
+       id="use4187"
+       inkscape:label="gen_quarter_use4187"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g6629"
+       id="use3533"
+       inkscape:label="gen_quarter_use3533"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g6629"
+       id="use8798"
+       inkscape:label="gen_quarter_use8798"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g1476"
+       inkscape:label="gen_half_vowel_o_s"
+       transform="translate(496.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.50001 3.5 L 6.5 3.5 L 6.5 14 L 4.49994 12"
+         sodipodi:nodetypes="ccc"
+         id="path604" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 3.24994 5 c 0 0 0.0306625 3.56199 -0.11693 5 c -0.147593 1.43801 -0.633136 3.5 -0.633136 3.5"
+         sodipodi:nodetypes="czc"
+         id="path6993" />
+    </g>
+    <use
+       xlink:href="#g1476"
+       id="use4724"
+       inkscape:label="gen_half_use4724"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1476"
+       id="use1365"
+       inkscape:label="gen_half_use1365"
+       transform="translate(23, 0)" />
+    <g
+       id="g3289"
+       inkscape:label="gen_quarter_vowel_o_s"
+       transform="translate(496.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.50001 1.75 L 6.5 1.75 L 6.5 7 L 4.49994 6"
+         sodipodi:nodetypes="ccc"
+         id="path6757" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-linejoin:bevel"
+         d="m 3.24994 2.5 c 0 0 0.0306625 1.781 -0.11693 2.5 c -0.147593 0.719003 -0.633136 1.75 -0.633136 1.75"
+         sodipodi:nodetypes="czc"
+         id="path5945" />
+    </g>
+    <use
+       xlink:href="#g3289"
+       id="use5778"
+       inkscape:label="gen_quarter_use5778"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g3289"
+       id="use8196"
+       inkscape:label="gen_quarter_use8196"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g3289"
+       id="use7758"
+       inkscape:label="gen_quarter_use7758"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g3289"
+       id="use1175"
+       inkscape:label="gen_quarter_use1175"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3289"
+       id="use5020"
+       inkscape:label="gen_quarter_use5020"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g8270"
+       inkscape:label="gen_half_vowel_u_s"
+       transform="translate(528.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.24997 2.5 L 6.24998 14 L 4.24995 12"
+         sodipodi:nodetypes="ccc"
+         id="path3783" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.49998 4 L 2.49998 12.5"
+         sodipodi:nodetypes="cc"
+         id="path7923" />
+    </g>
+    <use
+       xlink:href="#g8270"
+       id="use2575"
+       inkscape:label="gen_half_use2575"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8270"
+       id="use1931"
+       inkscape:label="gen_half_use1931"
+       transform="translate(23, 0)" />
+    <g
+       id="g8768"
+       inkscape:label="gen_quarter_vowel_u_s"
+       transform="translate(528.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.24997 1.25 L 6.24998 7 L 4.24995 6"
+         sodipodi:nodetypes="ccc"
+         id="path4642" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.49998 2 L 2.49998 6.25"
+         sodipodi:nodetypes="cc"
+         id="path6316" />
+    </g>
+    <use
+       xlink:href="#g8768"
+       id="use5812"
+       inkscape:label="gen_quarter_use5812"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8768"
+       id="use6189"
+       inkscape:label="gen_quarter_use6189"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8768"
+       id="use4829"
+       inkscape:label="gen_quarter_use4829"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8768"
+       id="use1495"
+       inkscape:label="gen_quarter_use1495"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8768"
+       id="use1769"
+       inkscape:label="gen_quarter_use1769"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g289"
+       inkscape:label="gen_half_vowel_y_s"
+       transform="translate(560.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.24997 2.5 L 6.24998 14 L 4.24995 12"
+         sodipodi:nodetypes="ccc"
+         id="path3716" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24998 4 L 2.24998 12.5"
+         sodipodi:nodetypes="cc"
+         id="path5112" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24994 8 L 6.24994 8"
+         sodipodi:nodetypes="cc"
+         id="path5916" />
+    </g>
+    <use
+       xlink:href="#g289"
+       id="use9428"
+       inkscape:label="gen_half_use9428"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g289"
+       id="use7032"
+       inkscape:label="gen_half_use7032"
+       transform="translate(23, 0)" />
+    <g
+       id="g7187"
+       inkscape:label="gen_quarter_vowel_y_s"
+       transform="translate(560.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.24997 1.25 L 6.24998 7 L 4.24995 6"
+         sodipodi:nodetypes="ccc"
+         id="path2070" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24998 2 L 2.24998 6.25"
+         sodipodi:nodetypes="cc"
+         id="path6322" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.24994 4 L 6.24994 4"
+         sodipodi:nodetypes="cc"
+         id="path1990" />
+    </g>
+    <use
+       xlink:href="#g7187"
+       id="use5760"
+       inkscape:label="gen_quarter_use5760"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g7187"
+       id="use4334"
+       inkscape:label="gen_quarter_use4334"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g7187"
+       id="use8145"
+       inkscape:label="gen_quarter_use8145"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g7187"
+       id="use8167"
+       inkscape:label="gen_quarter_use8167"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g7187"
+       id="use3264"
+       inkscape:label="gen_quarter_use3264"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g9183"
+       inkscape:label="gen_half_vowel_ai"
+       transform="translate(608.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 4 L 6 4 l 0 9"
+         sodipodi:nodetypes="ccc"
+         id="path9901" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999936 13 L 6.99995 13"
+         id="path6875" />
+    </g>
+    <use
+       xlink:href="#g9183"
+       id="use1127"
+       inkscape:label="gen_half_use1127"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g9183"
+       id="use2153"
+       inkscape:label="gen_half_use2153"
+       transform="translate(23, 0)" />
+    <g
+       id="g1341"
+       inkscape:label="gen_quarter_vowel_ai"
+       transform="translate(608.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 2 L 6 2 l 0 4.5"
+         sodipodi:nodetypes="ccc"
+         id="path1145" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999936 6.5 L 6.99995 6.5"
+         id="path6286" />
+    </g>
+    <use
+       xlink:href="#g1341"
+       id="use5007"
+       inkscape:label="gen_quarter_use5007"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g1341"
+       id="use8458"
+       inkscape:label="gen_quarter_use8458"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g1341"
+       id="use5442"
+       inkscape:label="gen_quarter_use5442"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g1341"
+       id="use1022"
+       inkscape:label="gen_quarter_use1022"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1341"
+       id="use9414"
+       inkscape:label="gen_quarter_use9414"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g5986"
+       inkscape:label="gen_half_vowel_ei"
+       transform="translate(640.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 4 L 6 4 L 6 13"
+         sodipodi:nodetypes="ccc"
+         id="path3911" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999936 13 L 6.99995 13"
+         id="path3852" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49994 8.5 L 5.99994 8.5"
+         id="path7602" />
+    </g>
+    <use
+       xlink:href="#g5986"
+       id="use2965"
+       inkscape:label="gen_half_use2965"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g5986"
+       id="use7170"
+       inkscape:label="gen_half_use7170"
+       transform="translate(23, 0)" />
+    <g
+       id="g912"
+       inkscape:label="gen_quarter_vowel_ei"
+       transform="translate(640.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 2 L 6 2 L 6 6.5"
+         sodipodi:nodetypes="ccc"
+         id="path9005" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999936 6.5 L 6.99995 6.5"
+         id="path6538" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49994 4.25 L 5.99994 4.25"
+         id="path2074" />
+    </g>
+    <use
+       xlink:href="#g912"
+       id="use2850"
+       inkscape:label="gen_quarter_use2850"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g912"
+       id="use7833"
+       inkscape:label="gen_quarter_use7833"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g912"
+       id="use4060"
+       inkscape:label="gen_quarter_use4060"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g912"
+       id="use2032"
+       inkscape:label="gen_quarter_use2032"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g912"
+       id="use8782"
+       inkscape:label="gen_quarter_use8782"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g2792"
+       inkscape:label="gen_half_vowel_oi"
+       transform="translate(672.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 4 L 6 4 L 6 13"
+         sodipodi:nodetypes="ccc"
+         id="path5475" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999936 13 L 6.99995 13"
+         id="path1992" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3 4 L 3 13"
+         id="path1834" />
+    </g>
+    <use
+       xlink:href="#g2792"
+       id="use454"
+       inkscape:label="gen_half_use454"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g2792"
+       id="use7693"
+       inkscape:label="gen_half_use7693"
+       transform="translate(23, 0)" />
+    <g
+       id="g8637"
+       inkscape:label="gen_quarter_vowel_oi"
+       transform="translate(672.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 2 L 6 2 L 6 6.5"
+         sodipodi:nodetypes="ccc"
+         id="path2914" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 0.999936 6.5 L 6.99995 6.5"
+         id="path3447" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3 2 L 3 6.5"
+         id="path294" />
+    </g>
+    <use
+       xlink:href="#g8637"
+       id="use7815"
+       inkscape:label="gen_quarter_use7815"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8637"
+       id="use2871"
+       inkscape:label="gen_quarter_use2871"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8637"
+       id="use7935"
+       inkscape:label="gen_quarter_use7935"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8637"
+       id="use3340"
+       inkscape:label="gen_quarter_use3340"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8637"
+       id="use40"
+       inkscape:label="gen_quarter_use40"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g1979"
+       inkscape:label="gen_half_vowel_au"
+       transform="translate(704.5, 16)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 3.5 L 6 3.5 L 5.99998 14"
+         sodipodi:nodetypes="ccc"
+         id="path6457" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.5 3.5 L 3.5 13.5"
+         sodipodi:nodetypes="cc"
+         id="path2035" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 8.5 L 3.49995 8.5"
+         sodipodi:nodetypes="cc"
+         id="path530" />
+    </g>
+    <use
+       xlink:href="#g1979"
+       id="use1238"
+       inkscape:label="gen_half_use1238"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1979"
+       id="use9207"
+       inkscape:label="gen_half_use9207"
+       transform="translate(23, 0)" />
+    <g
+       id="g5764"
+       inkscape:label="gen_quarter_vowel_au"
+       transform="translate(704.5, 32.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 1.75 L 6 1.75 L 5.99998 7"
+         sodipodi:nodetypes="ccc"
+         id="path8911" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.5 1.75 L 3.5 6.75"
+         sodipodi:nodetypes="cc"
+         id="path5840" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 4.25 L 3.49995 4.25"
+         sodipodi:nodetypes="cc"
+         id="path1913" />
+    </g>
+    <use
+       xlink:href="#g5764"
+       id="use4932"
+       inkscape:label="gen_quarter_use4932"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g5764"
+       id="use5517"
+       inkscape:label="gen_quarter_use5517"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g5764"
+       id="use9127"
+       inkscape:label="gen_quarter_use9127"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g5764"
+       id="use5151"
+       inkscape:label="gen_quarter_use5151"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g5764"
+       id="use9416"
+       inkscape:label="gen_quarter_use9416"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g3654"
+       inkscape:label="gen_half_vowel_ai_s"
+       transform="translate(608.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 4 L 6 4 l 0 8"
+         sodipodi:nodetypes="ccc"
+         id="path2802" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 0.999963 12 L 6.99997 12 l -2.49997 3"
+         sodipodi:nodetypes="ccc"
+         id="path9770" />
+    </g>
+    <use
+       xlink:href="#g3654"
+       id="use8553"
+       inkscape:label="gen_half_use8553"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3654"
+       id="use681"
+       inkscape:label="gen_half_use681"
+       transform="translate(23, 0)" />
+    <g
+       id="g1609"
+       inkscape:label="gen_quarter_vowel_ai_s"
+       transform="translate(608.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 2 L 6 2 l 0 4"
+         sodipodi:nodetypes="ccc"
+         id="path6208" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 0.999963 6 L 6.99997 6 l -2.49997 1.5"
+         sodipodi:nodetypes="ccc"
+         id="path9897" />
+    </g>
+    <use
+       xlink:href="#g1609"
+       id="use9076"
+       inkscape:label="gen_quarter_use9076"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g1609"
+       id="use7457"
+       inkscape:label="gen_quarter_use7457"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g1609"
+       id="use179"
+       inkscape:label="gen_quarter_use179"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g1609"
+       id="use8748"
+       inkscape:label="gen_quarter_use8748"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g1609"
+       id="use4070"
+       inkscape:label="gen_quarter_use4070"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g3829"
+       inkscape:label="gen_half_vowel_ei_s"
+       transform="translate(640.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 4 L 6 4 l -5e-07 8"
+         sodipodi:nodetypes="ccc"
+         id="path8748" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 0.999963 12 L 6.99997 12 l -2.49997 3"
+         sodipodi:nodetypes="ccc"
+         id="path1748" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49994 7.97083 L 5.99994 7.97083"
+         id="path446" />
+    </g>
+    <use
+       xlink:href="#g3829"
+       id="use4696"
+       inkscape:label="gen_half_use4696"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3829"
+       id="use5700"
+       inkscape:label="gen_half_use5700"
+       transform="translate(23, 0)" />
+    <g
+       id="g326"
+       inkscape:label="gen_quarter_vowel_ei_s"
+       transform="translate(640.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 2 L 6 2 l -5e-07 4"
+         sodipodi:nodetypes="ccc"
+         id="path8463" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 0.999963 6 L 6.99997 6 l -2.49997 1.5"
+         sodipodi:nodetypes="ccc"
+         id="path2244" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49994 3.98542 L 5.99994 3.98542"
+         id="path8123" />
+    </g>
+    <use
+       xlink:href="#g326"
+       id="use9808"
+       inkscape:label="gen_quarter_use9808"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g326"
+       id="use5332"
+       inkscape:label="gen_quarter_use5332"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g326"
+       id="use9113"
+       inkscape:label="gen_quarter_use9113"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g326"
+       id="use2047"
+       inkscape:label="gen_quarter_use2047"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g326"
+       id="use3373"
+       inkscape:label="gen_quarter_use3373"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g6908"
+       inkscape:label="gen_half_vowel_oi_s"
+       transform="translate(672.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 4 L 6 4 l -1e-06 8"
+         sodipodi:nodetypes="ccc"
+         id="path3042" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 0.999962 12 L 6.99997 12 l -2.49997 3"
+         sodipodi:nodetypes="ccc"
+         id="path2741" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3 4 l 4.7e-06 8"
+         sodipodi:nodetypes="cc"
+         id="path8863" />
+    </g>
+    <use
+       xlink:href="#g6908"
+       id="use7989"
+       inkscape:label="gen_half_use7989"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g6908"
+       id="use1864"
+       inkscape:label="gen_half_use1864"
+       transform="translate(23, 0)" />
+    <g
+       id="g455"
+       inkscape:label="gen_quarter_vowel_oi_s"
+       transform="translate(672.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 2 L 6 2 l -1e-06 4"
+         sodipodi:nodetypes="ccc"
+         id="path3900" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 0.999962 6 L 6.99997 6 l -2.49997 1.5"
+         sodipodi:nodetypes="ccc"
+         id="path877" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3 2 l 4.7e-06 4"
+         sodipodi:nodetypes="cc"
+         id="path8957" />
+    </g>
+    <use
+       xlink:href="#g455"
+       id="use3603"
+       inkscape:label="gen_quarter_use3603"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g455"
+       id="use5156"
+       inkscape:label="gen_quarter_use5156"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g455"
+       id="use7292"
+       inkscape:label="gen_quarter_use7292"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g455"
+       id="use5376"
+       inkscape:label="gen_quarter_use5376"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g455"
+       id="use7695"
+       inkscape:label="gen_quarter_use7695"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g3944"
+       inkscape:label="gen_half_vowel_au_s"
+       transform="translate(704.5, 80)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 3.5 L 6 3.5 L 5.99998 14 L 4.5 11"
+         sodipodi:nodetypes="cccc"
+         id="path4293" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.23542 3.5 L 3.23542 13.5"
+         sodipodi:nodetypes="cc"
+         id="path3432" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 8.5 L 3.24995 8.5"
+         sodipodi:nodetypes="cc"
+         id="path7241" />
+    </g>
+    <use
+       xlink:href="#g3944"
+       id="use3094"
+       inkscape:label="gen_half_use3094"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g3944"
+       id="use6474"
+       inkscape:label="gen_half_use6474"
+       transform="translate(23, 0)" />
+    <g
+       id="g8777"
+       inkscape:label="gen_quarter_vowel_au_s"
+       transform="translate(704.5, 96.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.5 1.75 L 6 1.75 L 5.99998 7 L 4.5 5.5"
+         sodipodi:nodetypes="cccc"
+         id="path5709" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.23542 1.75 L 3.23542 6.75"
+         sodipodi:nodetypes="cc"
+         id="path1368" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49995 4.25 L 3.24995 4.25"
+         sodipodi:nodetypes="cc"
+         id="path8778" />
+    </g>
+    <use
+       xlink:href="#g8777"
+       id="use16478"
+       inkscape:label="gen_quarter_use16478"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g8777"
+       id="use83456"
+       inkscape:label="gen_quarter_use83456"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g8777"
+       id="use58940"
+       inkscape:label="gen_quarter_use58940"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g8777"
+       id="use77104"
+       inkscape:label="gen_quarter_use77104"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g8777"
+       id="use88027"
+       inkscape:label="gen_quarter_use88027"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g2217"
+       inkscape:label="gen_halfhr_vowelhr_ai"
+       transform="translate(608, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 13 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path93897" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 13 2 L 13 7"
+         id="path90563" />
+    </g>
+    <use
+       xlink:href="#g2217"
+       id="use1408"
+       inkscape:label="gen_halfhr_use1408"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g2217"
+       id="use9077"
+       inkscape:label="gen_halfhr_use9077"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g45107"
+       inkscape:label="gen_quarter_vowelhr_ai"
+       transform="translate(608.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 6.5 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path31393" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.49999 2 L 6.49999 7"
+         id="path93689" />
+    </g>
+    <use
+       xlink:href="#g45107"
+       id="use73661"
+       inkscape:label="gen_quarter_use73661"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g45107"
+       id="use78737"
+       inkscape:label="gen_quarter_use78737"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g45107"
+       id="use45901"
+       inkscape:label="gen_quarter_use45901"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g45107"
+       id="use21712"
+       inkscape:label="gen_quarter_use21712"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g45107"
+       id="use96941"
+       inkscape:label="gen_quarter_use96941"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g54753"
+       inkscape:label="gen_halfhr_vowelhr_ei"
+       transform="translate(640, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 13 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path39791" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 13 2 L 13 7"
+         id="path55008" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 7.99988 6.21888 L 7.99988 1.99999"
+         id="path53273" />
+    </g>
+    <use
+       xlink:href="#g54753"
+       id="use56579"
+       inkscape:label="gen_halfhr_use56579"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g54753"
+       id="use80975"
+       inkscape:label="gen_halfhr_use80975"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g32700"
+       inkscape:label="gen_quarter_vowelhr_ei"
+       transform="translate(640.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 6.5 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path30187" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.49999 2 L 6.49999 7"
+         id="path62113" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 3.99994 6.21888 L 3.99994 1.99999"
+         id="path46744" />
+    </g>
+    <use
+       xlink:href="#g32700"
+       id="use22804"
+       inkscape:label="gen_quarter_use22804"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g32700"
+       id="use15170"
+       inkscape:label="gen_quarter_use15170"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g32700"
+       id="use44259"
+       inkscape:label="gen_quarter_use44259"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g32700"
+       id="use48787"
+       inkscape:label="gen_quarter_use48787"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g32700"
+       id="use29238"
+       inkscape:label="gen_quarter_use29238"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g90201"
+       inkscape:label="gen_halfhr_vowelhr_oi"
+       transform="translate(672, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 13 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path12860" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 13 2 L 13 7"
+         id="path54958" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99986 3.49999 L 12.9999 3.49999"
+         id="path5740" />
+    </g>
+    <use
+       xlink:href="#g90201"
+       id="use37881"
+       inkscape:label="gen_halfhr_use37881"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g90201"
+       id="use88852"
+       inkscape:label="gen_halfhr_use88852"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g4943"
+       inkscape:label="gen_quarter_vowelhr_oi"
+       transform="translate(672.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 6.5 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path25653" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 6.49999 2 L 6.49999 7"
+         id="path85700" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49993 3.49999 L 6.49994 3.49999"
+         id="path98732" />
+    </g>
+    <use
+       xlink:href="#g4943"
+       id="use13279"
+       inkscape:label="gen_quarter_use13279"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g4943"
+       id="use27694"
+       inkscape:label="gen_quarter_use27694"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g4943"
+       id="use19462"
+       inkscape:label="gen_quarter_use19462"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g4943"
+       id="use69896"
+       inkscape:label="gen_quarter_use69896"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g4943"
+       id="use76799"
+       inkscape:label="gen_quarter_use76799"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g29671"
+       inkscape:label="gen_halfhr_vowelhr_au"
+       transform="translate(704, 144)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 13.5 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path55040" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99987 3.99999 L 13.4999 4"
+         sodipodi:nodetypes="cc"
+         id="path82099" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 8.99988 3.99999 L 8.99988 1.99999"
+         id="path93462" />
+    </g>
+    <use
+       xlink:href="#g29671"
+       id="use92971"
+       inkscape:label="gen_halfhr_use92971"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g29671"
+       id="use45903"
+       inkscape:label="gen_halfhr_use45903"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g32420"
+       inkscape:label="gen_quarter_vowelhr_au"
+       transform="translate(704.5, 160.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 6.75001 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path69940" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49994 3.99999 L 6.74995 4"
+         sodipodi:nodetypes="cc"
+         id="path63517" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.49994 3.99999 L 4.49994 1.99999"
+         id="path46606" />
+    </g>
+    <use
+       xlink:href="#g32420"
+       id="use16975"
+       inkscape:label="gen_quarter_use16975"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g32420"
+       id="use58693"
+       inkscape:label="gen_quarter_use58693"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g32420"
+       id="use51521"
+       inkscape:label="gen_quarter_use51521"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g32420"
+       id="use53450"
+       inkscape:label="gen_quarter_use53450"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g32420"
+       id="use69899"
+       inkscape:label="gen_quarter_use69899"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g19487"
+       inkscape:label="gen_halfhr_vowelhr_ai_s"
+       transform="translate(608, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 11.9417 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path28075" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 11.9417 2 L 11.9417 7 L 15 5.5"
+         id="path40533" />
+    </g>
+    <use
+       xlink:href="#g19487"
+       id="use28548"
+       inkscape:label="gen_halfhr_use28548"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g19487"
+       id="use14362"
+       inkscape:label="gen_halfhr_use14362"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g84898"
+       inkscape:label="gen_quarter_vowelhr_ai_s"
+       transform="translate(608.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 5.97084 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path66991" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 5.97083 2 L 5.97083 7 L 7.49998 5.5"
+         id="path28464" />
+    </g>
+    <use
+       xlink:href="#g84898"
+       id="use72519"
+       inkscape:label="gen_quarter_use72519"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g84898"
+       id="use2495"
+       inkscape:label="gen_quarter_use2495"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g84898"
+       id="use81950"
+       inkscape:label="gen_quarter_use81950"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g84898"
+       id="use94232"
+       inkscape:label="gen_quarter_use94232"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g84898"
+       id="use17000"
+       inkscape:label="gen_quarter_use17000"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g19340"
+       inkscape:label="gen_halfhr_vowelhr_ei_s"
+       transform="translate(640, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 11.9417 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path89591" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 11.9417 2 L 11.9417 7 L 15 5.5"
+         id="path60398" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 7.47071 6.21888 L 7.47071 2"
+         id="path25957" />
+    </g>
+    <use
+       xlink:href="#g19340"
+       id="use82885"
+       inkscape:label="gen_halfhr_use82885"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g19340"
+       id="use96764"
+       inkscape:label="gen_halfhr_use96764"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g5570"
+       inkscape:label="gen_quarter_vowelhr_ei_s"
+       transform="translate(640.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 5.97084 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path56829" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 5.97083 2 L 5.97083 7 L 7.49998 5.5"
+         id="path68786" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 3.73536 6.21888 L 3.73536 2"
+         id="path61928" />
+    </g>
+    <use
+       xlink:href="#g5570"
+       id="use85065"
+       inkscape:label="gen_quarter_use85065"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g5570"
+       id="use81394"
+       inkscape:label="gen_quarter_use81394"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g5570"
+       id="use26012"
+       inkscape:label="gen_quarter_use26012"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g5570"
+       id="use33948"
+       inkscape:label="gen_quarter_use33948"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g5570"
+       id="use16395"
+       inkscape:label="gen_quarter_use16395"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g2776"
+       inkscape:label="gen_halfhr_vowelhr_oi_s"
+       transform="translate(672, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 11.9417 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path11697" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 11.9417 2 L 11.9417 7 L 15 5.5"
+         id="path88786" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99986 3.49999 L 11.9415 3.49999"
+         sodipodi:nodetypes="cc"
+         id="path2894" />
+    </g>
+    <use
+       xlink:href="#g2776"
+       id="use94322"
+       inkscape:label="gen_halfhr_use94322"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g2776"
+       id="use66725"
+       inkscape:label="gen_halfhr_use66725"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g80864"
+       inkscape:label="gen_quarter_vowelhr_oi_s"
+       transform="translate(672.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 5.97084 6.21888"
+         sodipodi:nodetypes="ccc"
+         id="path68583" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 5.97083 2 L 5.97083 7 L 7.49998 5.5"
+         id="path3694" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49993 3.49999 L 5.97077 3.49999"
+         sodipodi:nodetypes="cc"
+         id="path95352" />
+    </g>
+    <use
+       xlink:href="#g80864"
+       id="use51316"
+       inkscape:label="gen_quarter_use51316"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g80864"
+       id="use29855"
+       inkscape:label="gen_quarter_use29855"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g80864"
+       id="use82884"
+       inkscape:label="gen_quarter_use82884"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g80864"
+       id="use17168"
+       inkscape:label="gen_quarter_use17168"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g80864"
+       id="use77637"
+       inkscape:label="gen_quarter_use77637"
+       transform="translate(16, 6.5)" />
+    <g
+       id="g47669"
+       inkscape:label="gen_halfhr_vowelhr_au_s"
+       transform="translate(704, 208)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 2.99989 2 l 0.00011 4.21888 L 13.5 6.21888 l -3.02931 -1.21888"
+         sodipodi:nodetypes="cccc"
+         id="path46715" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 2.99987 3.99999 L 13.4999 4"
+         sodipodi:nodetypes="cc"
+         id="path53081" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 8.99988 3.99999 L 8.99988 1.99999"
+         id="path16398" />
+    </g>
+    <use
+       xlink:href="#g47669"
+       id="use82322"
+       inkscape:label="gen_halfhr_use82322"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g47669"
+       id="use52007"
+       inkscape:label="gen_halfhr_use52007"
+       transform="translate(16, 7.5)" />
+    <g
+       id="g54086"
+       inkscape:label="gen_quarter_vowelhr_au_s"
+       transform="translate(704.5, 224.5)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 1.49995 2 l 5.5e-05 4.21888 L 6.75001 6.21888 l -1.51466 -1.21888"
+         sodipodi:nodetypes="cccc"
+         id="path814" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 1.49994 3.99999 L 6.74995 4"
+         sodipodi:nodetypes="cc"
+         id="path28083" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 4.49994 3.99999 L 4.49994 1.99999"
+         id="path77637" />
+    </g>
+    <use
+       xlink:href="#g54086"
+       id="use81327"
+       inkscape:label="gen_quarter_use81327"
+       transform="translate(7, 0)" />
+    <use
+       xlink:href="#g54086"
+       id="use55183"
+       inkscape:label="gen_quarter_use55183"
+       transform="translate(0, 6.5)" />
+    <use
+       xlink:href="#g54086"
+       id="use61307"
+       inkscape:label="gen_quarter_use61307"
+       transform="translate(7, 6.5)" />
+    <use
+       xlink:href="#g54086"
+       id="use38445"
+       inkscape:label="gen_quarter_use38445"
+       transform="translate(16, 0)" />
+    <use
+       xlink:href="#g54086"
+       id="use8799"
+       inkscape:label="gen_quarter_use8799"
        transform="translate(16, 6.5)" />
   </g>
 </svg>
