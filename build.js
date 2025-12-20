@@ -22,7 +22,11 @@ const md = new MarkdownIt({
 md.use(fontSizePlugin);
 
 // 2. 后加载 SVG 插件 (在 span 里的 text 中查找 ::icon:: 并替换)
-md.use(svgStackPlugin, { basePath: ICONS_DIR });
+md.use(svgStackPlugin, {
+  basePath: path.join(__dirname, 'icons'),      // 磁盘路径，用于检查文件
+  publicPath: 'icons/',                         // HTML中引用的相对路径
+  defaultFile: 'default.svg'                    // 默认库文件
+});
 
 // --- 主逻辑 ---
 function build() {
@@ -94,8 +98,10 @@ function build() {
         h2 { padding-left: 2em; }
         h3 { padding-left: 4em; }
         
-        /* 也可以在这里全局控制，但插件已经内联了关键样式 */
-        .svg-stack { margin: 0 2px; }
+        .svg-stack {
+            display: inline-block;
+            vertical-align: middle;
+        }
     </style>
 </head>
 <body>
