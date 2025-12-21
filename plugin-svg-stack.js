@@ -68,16 +68,15 @@ module.exports = function svgUsePlugin(md, options) {
                 }
 
                 const fullFileName = fileName.endsWith('.svg') ? fileName : `${fileName}.svg`;
-                const filePath = path.join(basePath, fullFileName);
+                const filePath = path.join(basePath, fullFileName); // 不用校驗文件路徑了
 
-                // 校验文件是否存在 (可选)
-                if (fs.existsSync(filePath)) {
+                if (idName.length === 0) { // 空格
+                  hasValidItem = true;
+                } else {
                   const fileUrl = `${publicPath}${fullFileName}`;
                   
                   layersHtml += `<use href="${fileUrl}#${idName}" x="0" y="0"></use>`;
                   hasValidItem = true;
-                } else {
-                  console.warn(`[SVG Plugin] File not found: ${filePath}`);
                 }
               });
 

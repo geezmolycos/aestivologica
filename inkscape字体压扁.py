@@ -1,35 +1,48 @@
 # --- 配置参数 ---
 
+# 0. whole
+WHOLE_PREFIX = "gen_whole_"
+WHOLE_OFFSET = (0-16/10, 0-16/10*1.5)
+WHOLE_MOVE = (16, 0)
+WHOLE_SCALE = (1+0.2, 1+0.2)
+WHOLE_CLONE_MOVE = (0, 0)
+# 克隆的相对移动列表
+WHOLE_CLONE_OFFSETS = [
+    (0, 0),
+]
+WHOLE_CLONE_ID_SUFFIX = ['']
+WHOLE_CLONE_ID_SUFFIX_ALT = ['0']
+
 # 1. "Half" 阶段配置
 HALF_PREFIX = "gen_half_"
-HALF_OFFSET = (0.5, 0)
+HALF_OFFSET = (0.25, -16/10*1.5)
 HALF_MOVE = (0, 16)
-HALF_SCALE = (0.5, 1)
+HALF_SCALE = (0.55, 1+0.2)
 HALF_CLONE_MOVE = (16, 0)
 # 克隆的相对移动列表
 HALF_CLONE_OFFSETS = [
     (0, 0),
-    (7, 0)
+    (6.5, 0)
 ]
-HALF_CLONE_ID_SUFFIX = 'lr'
+HALF_CLONE_ID_SUFFIX = '46'
 
 HALFHR_PREFIX = "gen_halfhr_"
-HALFHR_OFFSET = (0, 0)
+HALFHR_OFFSET = (0, 0.5)
 HALFHR_MOVE = (0, 16)
 HALFHR_SCALE = (1, 0.5)
 HALFHR_CLONE_MOVE = (16, 0)
 # 克隆的相对移动列表
 HALFHR_CLONE_OFFSETS = [
     (0, 0),
-    (0, 7.5)
+    (0, 6.5)
 ]
-HALFHR_CLONE_ID_SUFFIX = 'ud'
+HALFHR_CLONE_ID_SUFFIX = '82'
 
 # 2. "Quarter" 阶段配置
 QUARTER_PREFIX = "gen_quarter_"
-QUARTER_OFFSET = (0.5, 0.5)
+QUARTER_OFFSET = (0.125-0.25, -0.1-0.25)
 QUARTER_MOVE = (0, 32)
-QUARTER_SCALE = (0.5, 0.5)
+QUARTER_SCALE = (0.58, 0.58)
 QUARTER_CLONE_MOVE = (16, 0)
 # 克隆的相对移动列表
 QUARTER_CLONE_OFFSETS = [
@@ -38,8 +51,8 @@ QUARTER_CLONE_OFFSETS = [
     (7, 0),
     (7, 6.5),
 ]
-QUARTER_CLONE_ID_SUFFIX = '1234'
-QUARTER_CLONE_ID_SUFFIX_ALT = '5678'
+QUARTER_CLONE_ID_SUFFIX = '7193'
+QUARTER_CLONE_ID_SUFFIX_ALT = ['07','01','09','03']
 
 # --- 核心逻辑 ---
 
@@ -58,9 +71,9 @@ def process_object(original, prefix, offset, move_delta, scale_factor, clone_mov
         # assume is group
         new_item = duplicate(item)
         duplicated_children.append(new_item)
-        path = item._inkscape_obj.path
+        path = item.get_inkex_object().path
         path = path.transform(item.transform).translate(-coord_lefttop[0], -coord_lefttop[1]).scale(scale_factor[0], scale_factor[1])
-        new_item._inkscape_obj.set('d', path)
+        new_item.get_inkex_object().set('d', path)
         new_item.transform = inkex.transforms.Transform(((1.0, 0.0, 0.0), (0.0, 1.0, 0.0)))
         # print(item.svg_get('id'), item.transform.matrix, '\n', item._inkscape_obj.path, '\n\n', item._inkscape_obj.path.bounding_box().left, item._inkscape_obj.path.bounding_box().top, '\n')
         
@@ -109,6 +122,7 @@ for obj in all_shapes():
 for obj in all_shapes():
     label = obj.svg_get('inkscape:label')
     if isinstance(label, str) and (label.startswith('consonant_') or label.startswith('vowel_')):
+        process_object(obj, WHOLE_PREFIX, WHOLE_OFFSET, WHOLE_MOVE, WHOLE_SCALE, WHOLE_CLONE_MOVE, WHOLE_CLONE_OFFSETS, WHOLE_CLONE_ID_SUFFIX)
         # 执行第一阶段 (Half)
         process_object(obj, HALF_PREFIX, HALF_OFFSET, HALF_MOVE, HALF_SCALE, HALF_CLONE_MOVE, HALF_CLONE_OFFSETS, HALF_CLONE_ID_SUFFIX)
 
@@ -116,6 +130,7 @@ for obj in all_shapes():
         # 再次使用 target，保证 Quarter 也是从原件复制
         process_object(obj, QUARTER_PREFIX, QUARTER_OFFSET, QUARTER_MOVE, QUARTER_SCALE, QUARTER_CLONE_MOVE, QUARTER_CLONE_OFFSETS, QUARTER_CLONE_ID_SUFFIX)
     if isinstance(label, str) and label.startswith('vowelhr_'):
+        process_object(obj, WHOLE_PREFIX, WHOLE_OFFSET, WHOLE_MOVE, WHOLE_SCALE, WHOLE_CLONE_MOVE, WHOLE_CLONE_OFFSETS, WHOLE_CLONE_ID_SUFFIX_ALT)
         # 执行第一阶段 (Half)
         process_object(obj, HALFHR_PREFIX, HALFHR_OFFSET, HALFHR_MOVE, HALFHR_SCALE, HALFHR_CLONE_MOVE, HALFHR_CLONE_OFFSETS, HALFHR_CLONE_ID_SUFFIX)
 

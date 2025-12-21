@@ -102,6 +102,13 @@ function build() {
             display: inline-block;
             vertical-align: middle;
         }
+        
+        @media (prefers-color-scheme: dark) {
+            /* workaround for svg icon color */
+            .svg-stack {
+                filter: invert(1) hue-rotate(180deg);
+            }
+        }
     </style>
 </head>
 <body>
