@@ -1,0 +1,201 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="_xCp1Q6WmeHxfBd036OW">
+    <mxGraphModel dx="1213" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uQkyKP140xPcOWlWazSx-45" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="uQkyKP140xPcOWlWazSx-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-20" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" value="普通標點" vertex="1">
+          <mxGeometry height="40" width="70" x="330" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-4" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="uQkyKP140xPcOWlWazSx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="夏理文" vertex="1">
+          <mxGeometry height="50" width="110" x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="夏理文Latin轉寫" vertex="1">
+          <mxGeometry height="50" width="110" x="330" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="素文" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="韻符" vertex="1">
+          <mxGeometry height="40" width="70" x="330" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="輔株" vertex="1">
+          <mxGeometry height="40" width="70" x="400" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="訓字" vertex="1">
+          <mxGeometry height="40" width="70" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-12" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="uQkyKP140xPcOWlWazSx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-47" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="uQkyKP140xPcOWlWazSx-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="詞語" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-61" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="uQkyKP140xPcOWlWazSx-60" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="構字株" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-64" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="uQkyKP140xPcOWlWazSx-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="意字株" vertex="1">
+          <mxGeometry height="40" width="90" x="300" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-48" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uQkyKP140xPcOWlWazSx-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-79" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="uQkyKP140xPcOWlWazSx-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="成文規則" vertex="1">
+          <mxGeometry height="20" width="60" x="185" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-46" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="uQkyKP140xPcOWlWazSx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="標點規則" vertex="1">
+          <mxGeometry height="20" width="60" x="280" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-56" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uQkyKP140xPcOWlWazSx-32" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="400" />
+              <mxPoint x="215" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="構枝" vertex="1">
+          <mxGeometry height="40" width="50" x="160" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-57" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uQkyKP140xPcOWlWazSx-32" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="245" y="400" />
+              <mxPoint x="215" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="構幹" vertex="1">
+          <mxGeometry height="40" width="50" x="220" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-55" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uQkyKP140xPcOWlWazSx-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="400" />
+              <mxPoint x="345" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="意字葉" vertex="1">
+          <mxGeometry height="40" width="50" x="350" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-54" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uQkyKP140xPcOWlWazSx-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="400" />
+              <mxPoint x="345" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="漢字" vertex="1">
+          <mxGeometry height="40" width="50" x="290" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-59" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="uQkyKP140xPcOWlWazSx-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="400" />
+              <mxPoint x="345" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-65" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;curved=0;" target="uQkyKP140xPcOWlWazSx-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="意字花" vertex="1">
+          <mxGeometry height="40" width="50" x="410" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-63" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="uQkyKP140xPcOWlWazSx-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-70" edge="1" parent="1" source="uQkyKP140xPcOWlWazSx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="uQkyKP140xPcOWlWazSx-69" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="組詞規則" vertex="1">
+          <mxGeometry height="20" width="60" x="185" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="標點" vertex="1">
+          <mxGeometry height="30" width="50" x="420" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-68" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="夏理 Latin 正字法" vertex="1">
+          <mxGeometry height="40" width="260" x="85" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="平詞範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="泛詞範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="疊詞範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="複構詞範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="複葉詞範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="複花詞範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="平文範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="泛文範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="構文範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="葉文範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CCCCCC;fillStyle=dots;fillColor=#eeeeee;" value="花文範式" vertex="1">
+          <mxGeometry height="20" width="80" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-84" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="520" y="410" as="sourcePoint" />
+            <mxPoint x="520" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="底層" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="uQkyKP140xPcOWlWazSx-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="頂層" vertex="1">
+          <mxGeometry height="30" width="60" x="460" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
