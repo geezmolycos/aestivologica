@@ -91,7 +91,7 @@ def process_object(original, prefix, offset, move_delta, scale_factor, clone_mov
     glyph_instance_move = (-original.bounding_box().left - move_delta[0], -original.bounding_box().top - move_delta[1])
     
     original_name = original.svg_get('inkscape:label')
-    original_name_letter = original_name.split('_')[-1]
+    original_name_letter = '_'.join(original_name.split('_')[1:])
     # 创建 克隆 (clone) 并移动
     for offset, suffix in zip(clone_offsets, id_suffix):
         # 创建克隆

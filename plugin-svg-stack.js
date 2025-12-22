@@ -8,8 +8,8 @@ module.exports = function svgUsePlugin(md, options) {
   const publicPath = options.publicPath || '';
   const defaultFile = options.defaultFile || 'default.svg';
 
-  // 正则：匹配 ::...:: 格式，内部允许字母、数字、下划线、横杠、点、加号和井号
-  const REGEX = /::([a-zA-Z0-9_\-\.\,#;:]+)::/g;
+  // 正则：匹配 ::...:: 格式，内部允许字母、数字、下划线、横杠、点等符號
+  const REGEX = /::([a-zA-Z0-9_\-\.\,#\+:]+)::/g;
 
   md.core.ruler.push('svg_use_stack', function (state) {
     for (let i = 0; i < state.tokens.length; i++) {
@@ -30,7 +30,7 @@ module.exports = function svgUsePlugin(md, options) {
           while ((match = REGEX.exec(content)) !== null) {
             const fullMatch = match[0];
             const startIndex = match.index;
-            const rawPayload = match[1]; // 例如 "heart;star:32;bg+icon"
+            const rawPayload = match[1]; // 例如 "heart:star+w32:bg,icon"
 
             // 1. 插入之前的文本
             if (startIndex > lastIndex) {
@@ -43,28 +43,42 @@ module.exports = function svgUsePlugin(md, options) {
             const groups = rawPayload.split(':');
 
             groups.forEach(group => {
-              // 解析每个组内的 宽度 (例如 "star;32")
-              const [mainPart, widthPart] = group.split(';');
-              const targetWidth = widthPart ? parseInt(widthPart, 10) : 16;
 
-              // 解析每个组内的 堆叠层 (例如 "bg+icon")
-              const rawItems = mainPart.split(',');
+              // 解析每个组内的 堆叠层 (例如 "bg,icon")
+              const rawItems = group.split(',');
 
               // 2. 解析每个子项并生成 <use>
               let layersHtml = '';
               let hasValidItem = false;
+              let targetWidth = 16;
 
               rawItems.forEach(item => {
+
+                let color = null;
+
+                // 解析每个子項内的 可選參數 (例如 "star+w32")
+                const [mainPart, ...options] = item.split('+');
+                for (let opt of options) {
+                  const optType = opt[0];
+                  const optValue = opt.slice(1);
+                  if (optType == 'w') {
+                    targetWidth = optValue ? parseInt(optValue, 10) : targetWidth;
+                  } else if (optType == 'c') {
+                    color = {
+                      'r': 'red', 'y': 'yellow', 'g': 'green', 'b': 'blue',
+                    }[optValue] || null;
+                  }
+                }
                 let fileName = '';
                 let idName = '';
 
-                if (item.includes('#')) {
-                  const parts = item.split('#');
+                if (mainPart.includes('#')) {
+                  const parts = mainPart.split('#');
                   fileName = parts[0] || defaultFile.replace('.svg', ''); // ::#id:: 情况
                   idName = parts[1];
                 } else {
                   fileName = defaultFile.replace('.svg', '')
-                  idName = item;
+                  idName = mainPart;
                 }
 
                 const fullFileName = fileName.endsWith('.svg') ? fileName : `${fileName}.svg`;
@@ -74,8 +88,9 @@ module.exports = function svgUsePlugin(md, options) {
                   hasValidItem = true;
                 } else {
                   const fileUrl = `${publicPath}${fullFileName}`;
+                  const filter = color ? `filter="url(./color-filter.svg#filter-${color})"` : '';
                   
-                  layersHtml += `<use href="${fileUrl}#${idName}" x="0" y="0"></use>`;
+                  layersHtml += `<use href="${fileUrl}#${idName}" x="0" y="0" ${filter}></use>`;
                   hasValidItem = true;
                 }
               });

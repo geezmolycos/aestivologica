@@ -1,0 +1,69 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter-red">
+      <feColorMatrix type="matrix" values="0.129 0 0 0 0.871
+                                           0 0.757 0 0 0.243
+                                           0 0 0.824 0 0.176
+                                           0 0 0 1 0" />
+    </filter>
+
+    <filter id="filter-yellow">
+      <feColorMatrix type="matrix" values="0.369 0 0 0 0.631
+                                           0 0.522 0 0 0.478
+                                           0 0 1.000 0 0.000
+                                           0 0 0 1 0" />
+    </filter>
+
+    <filter id="filter-green">
+      <feColorMatrix type="matrix" values="1.000 0 0 0 0.000
+                                           0 0.380 0 0 0.620
+                                           0 0 0.788 0 0.212
+                                           0 0 0 1 0" />
+    </filter>
+
+    <filter id="filter-blue">
+      <feColorMatrix type="matrix" values="1.000 0 0 0 0.000
+                                           0 0.463 0 0 0.537
+                                           0 0 0.157 0 0.843
+                                           0 0 0 1 0" />
+    </filter>
+
+    <linearGradient id="bw-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#808080" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#f4f4f4" />
+
+  <g transform="translate(20, 40)">
+    <rect width="100" height="100" fill="url(#bw-gradient)" stroke="black" />
+    <text x="50" y="-15" text-anchor="middle" font-family="monospace" font-size="12">Original</text>
+    <text x="50" y="120" text-anchor="middle" font-family="monospace" font-size="10">#000000</text>
+  </g>
+
+  <g transform="translate(140, 40)">
+    <rect width="100" height="100" fill="url(#bw-gradient)" filter="url(#filter-red)" stroke="black" />
+    <text x="50" y="-15" text-anchor="middle" font-family="monospace" font-size="12">Red</text>
+    <text x="50" y="120" text-anchor="middle" font-family="monospace" font-size="10">#de3e2d</text>
+  </g>
+
+  <g transform="translate(260, 40)">
+    <rect width="100" height="100" fill="url(#bw-gradient)" filter="url(#filter-yellow)" stroke="black" />
+    <text x="50" y="-15" text-anchor="middle" font-family="monospace" font-size="12">Gold</text>
+    <text x="50" y="120" text-anchor="middle" font-family="monospace" font-size="10">#a17a00</text>
+  </g>
+
+  <g transform="translate(380, 40)">
+    <rect width="100" height="100" fill="url(#bw-gradient)" filter="url(#filter-green)" stroke="black" />
+    <text x="50" y="-15" text-anchor="middle" font-family="monospace" font-size="12">Green</text>
+    <text x="50" y="120" text-anchor="middle" font-family="monospace" font-size="10">#009e36</text>
+  </g>
+
+  <g transform="translate(500, 40)">
+    <rect width="100" height="100" fill="url(#bw-gradient)" filter="url(#filter-blue)" stroke="black" />
+    <text x="50" y="-15" text-anchor="middle" font-family="monospace" font-size="12">Blue</text>
+    <text x="50" y="120" text-anchor="middle" font-family="monospace" font-size="10">#0089d7</text>
+  </g>
+</svg>

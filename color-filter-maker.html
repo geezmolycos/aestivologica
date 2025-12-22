@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG Color Matrix Filter Demo</title>
+    <style>
+        body { font-family: sans-serif; background: #f0f0f0; padding: 20px; color: #333; }
+        .container { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+        .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: center; }
+        .box { width: 150px; height: 150px; margin: 10px auto; border: 1px solid #ddd; background: linear-gradient(black, white); }
+        code { background: #eee; padding: 2px 4px; border-radius: 4px; font-size: 0.9em; }
+        h2 { text-align: center; }
+    </style>
+</head>
+<body>
+
+    <h2>SVG Color Matrix: Black &#8594; Target | White &#8594; White</h2>
+
+    <svg style="position: absolute; width: 0; height: 0;" aria-hidden="true">
+        <defs>
+            <filter id="filter-red">
+                <feColorMatrix type="matrix" values="0.129 0 0 0 0.871 0 0.757 0 0 0.243 0 0 0.824 0 0.176 0 0 0 1 0" />
+            </filter>
+            <filter id="filter-gold">
+                <feColorMatrix type="matrix" values="0.369 0 0 0 0.631 0 0.522 0 0 0.478 0 0 1.000 0 0.000 0 0 0 1 0" />
+            </filter>
+            <filter id="filter-green">
+                <feColorMatrix type="matrix" values="1.000 0 0 0 0.000 0 0.380 0 0 0.620 0 0 0.788 0 0.212 0 0 0 1 0" />
+            </filter>
+            <filter id="filter-blue">
+                <feColorMatrix type="matrix" values="1.000 0 0 0 0.000 0 0.463 0 0 0.537 0 0 0.157 0 0.843 0 0 0 1 0" />
+            </filter>
+        </defs>
+    </svg>
+
+    <div class="container">
+        <div class="card">
+            <div class="box"></div>
+            <strong>Original</strong><br><code>None</code>
+        </div>
+
+        <div class="card">
+            <div class="box" style="filter: url(#filter-red)"></div>
+            <strong>Red-ish</strong><br><code>#de3e2d</code>
+        </div>
+
+        <div class="card">
+            <div class="box" style="filter: url(#filter-gold)"></div>
+            <strong>Gold-ish</strong><br><code>#a17a00</code>
+        </div>
+
+        <div class="card">
+            <div class="box" style="filter: url(#filter-green)"></div>
+            <strong>Green-ish</strong><br><code>#009e36</code>
+        </div>
+
+        <div class="card">
+            <div class="box" style="filter: url(#filter-blue)"></div>
+            <strong>Blue-ish</strong><br><code>#0089d7</code>
+        </div>
+    </div>
+
+    <hr style="margin: 40px 0;">
+
+    <div style="max-width: 600px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px;">
+        <h3>Generator Tool</h3>
+        <p>Enter a hex code to get the SVG Matrix values:</p>
+        <input type="color" id="colorPicker" value="#de3e2d">
+        <input type="text" id="hexInput" value="#de3e2d">
+        <pre id="output" style="background: #222; color: #7f7; padding: 15px; overflow-x: auto;"></pre>
+    </div>
+
+    <script>
+        const hexInput = document.getElementById('hexInput');
+        const colorPicker = document.getElementById('colorPicker');
+        const output = document.getElementById('output');
+
+        function updateMatrix() {
+            let hex = hexInput.value.replace('#', '');
+            if (hex.length === 3) hex = hex.split('').map(s => s + s).join('');
+            
+            const r = parseInt(hex.substr(0, 2), 16) / 255;
+            const g = parseInt(hex.substr(2, 2), 16) / 255;
+            const b = parseInt(hex.substr(4, 2), 16) / 255;
+
+            const matrix = [
+                (1 - r).toFixed(3), 0, 0, 0, r.toFixed(3),
+                0, (1 - g).toFixed(3), 0, 0, g.toFixed(3),
+                0, 0, (1 - b).toFixed(3), 0, b.toFixed(3),
+                0, 0, 0, 1, 0
+            ].join(' ');
+
+            output.textContent = `<feColorMatrix type="matrix" \n  values="${matrix}" />`;
+        }
+
+        hexInput.addEventListener('input', (e) => {
+            colorPicker.value = e.target.value;
+            updateMatrix();
+        });
+
+        colorPicker.addEventListener('input', (e) => {
+            hexInput.value = e.target.value;
+            updateMatrix();
+        });
+
+        updateMatrix();
+    </script>
+</body>
+</html>
