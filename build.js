@@ -2,9 +2,10 @@
 const fs = require('fs');
 const path = require('path');
 const MarkdownIt = require('markdown-it');
-// 引入两个插件
+// 引入插件
 const svgStackPlugin = require('./plugin-svg-stack');
 const fontSizePlugin = require('./plugin-fontsize');
+const accentQuickPlugin = require('./plugin-accent-quick');
 // --- 配置路径 ---
 const SRC_FILE = path.join(__dirname, '夏理文v1.2设计文档.md');
 const OUT_FILE = path.join(__dirname, 'output.html');
@@ -17,13 +18,14 @@ const md = new MarkdownIt({
     breaks: true
 });
 
+md.use(accentQuickPlugin);
 // !!! 关键顺序 !!!
 // 1. 先加载字体插件 (先把 ^^::icon::^^ 拆解成 span + text)
 md.use(fontSizePlugin);
 
 // 2. 后加载 SVG 插件 (在 span 里的 text 中查找 ::icon:: 并替换)
 md.use(svgStackPlugin, {
-  basePath: path.join(__dirname, 'icons'),      // 磁盘路径，用于检查文件
+  basePath: ICONS_DIR,      // 磁盘路径，用于检查文件
   publicPath: 'icons/',                         // HTML中引用的相对路径
   defaultFile: 'default.svg'                    // 默认库文件
 });
