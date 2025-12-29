@@ -4,7 +4,7 @@ module.exports = function accentQuickPlugin(md) {
   const map = {
     // --- 组合符号 (自动吸附到左侧字符) ---
     "'": "\u0301", // 锐音 (acute)
-    "`": "\u0300", // 钝音 (grave)
+    "\"": "\u0300", // 钝音 (grave)
     ",": "\u0328", // 下加钩 (ogonek)
     ".": "\u032E", // 下加圆弧 (breve below)
 
