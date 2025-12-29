@@ -93,7 +93,7 @@ function build() {
         }
         td {
             border: 1px solid gray;
-            padding: 0.25em;
+            padding: 0.25em 0.5em;
         }
 
         h1 { padding-left: 0em; }
@@ -102,7 +102,7 @@ function build() {
         
         .svg-stack {
             display: inline-block;
-            vertical-align: middle;
+            vertical-align: -0.125em;
         }
         
         @media (prefers-color-scheme: dark) {
