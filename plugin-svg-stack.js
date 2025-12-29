@@ -100,7 +100,7 @@ module.exports = function svgUsePlugin(md, options) {
                 const svgToken = new state.Token('html_inline', '', 0);
                 // 设置 viewBox 爲 targetWidth 寬度，高度 1em
                 svgToken.content = `<span class="svg-stack">` +
-                  `<svg viewBox="0 0 ` + targetWidth.toString() + ` 16" width="auto" height="1em" fill="currentColor" style="overflow: visible;">` +
+                  `<svg viewBox="0 0 ` + targetWidth.toString() + ` 16" width="auto" height="1em" style="overflow: visible;">` +
                   layersHtml +
                   `</svg></span>`;
                 newTokens.push(svgToken);
