@@ -5,7 +5,7 @@ module.exports = function fontSizePlugin(md) {
   // Group 1: 捕获符号 (^^ 或 ,,)
   // Group 2: 捕获内容 (非贪婪匹配)
   // \1: 确保结束符号和开始符号一致
-  const REGEX = /(\^\^|,,)(.+?)\1/;
+  const REGEX = /(\^\^|,,|==)(.+?)\1/;
 
   md.core.ruler.push('font_size', function (state) {
     for (let i = 0; i < state.tokens.length; i++) {
@@ -21,7 +21,7 @@ module.exports = function fontSizePlugin(md) {
           
           // 使用 split 技巧：如果正则包含捕获组，split 会把捕获组也保留在数组里
           // "Text ^^Big^^ End" -> ["Text ", "^^", "Big", " End"]
-          const parts = token.content.split(/(\^\^|,,)(.+?)\1/);
+          const parts = token.content.split(/(\^\^|,,|==)(.+?)\1/);
           
           const newTokens = [];
           
@@ -32,18 +32,23 @@ module.exports = function fontSizePlugin(md) {
             if (!part) continue; // 跳过空字符串
 
             // 检查当前部分是不是符号 (^^ 或 ,,)
-            if (part === '^^' || part === ',,') {
+            if (part === '^^' || part === ',,' || part == '==') {
               const symbol = part;
               const content = parts[k + 1]; // 下一部分肯定是内容
               
               // 根据符号决定样式
-              const style = symbol === '^^' 
-                ? 'font-size: 200%; line-height: 1.2;' 
-                : 'font-size: 75%; opacity: 0.8;';
+              let className = 'big';
+              if (symbol === '==') {
+                className = 'half';
+              } else if (symbol === ',,') {
+                className = 'small';
+              } else {
+                className = 'big';
+              }
               
-              // 1. 开头标签 <span style="...">
+              // 1. 开头标签 <span class="...">
               const openToken = new state.Token('html_inline', '', 0);
-              openToken.content = `<span style="${style}">`;
+              openToken.content = `<span class="${className}">`;
               newTokens.push(openToken);
 
               // 2. 中间内容 (作为 text token)

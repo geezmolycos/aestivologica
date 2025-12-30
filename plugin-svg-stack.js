@@ -9,7 +9,7 @@ module.exports = function svgUsePlugin(md, options) {
   const defaultFile = options.defaultFile || 'default.svg';
 
   // 正则：匹配 ::...:: 格式，内部允许字母、数字、下划线、横杠、点等符號
-  const REGEX = /::([a-zA-Z0-9_\-\.\,#\+:]+)::/g;
+  const REGEX = /::([a-zA-Z0-9_\-\.\,#\+:]+?)::/g;
 
   md.core.ruler.push('svg_use_stack', function (state) {
     for (let i = 0; i < state.tokens.length; i++) {
@@ -100,7 +100,7 @@ module.exports = function svgUsePlugin(md, options) {
                 const svgToken = new state.Token('html_inline', '', 0);
                 // 设置 viewBox 爲 targetWidth 寬度，高度 1em
                 svgToken.content = `<span class="svg-stack">` +
-                  `<svg viewBox="0 0 ` + targetWidth.toString() + ` 16" width="auto" height="1em" style="overflow: visible;">` +
+                  `<svg viewBox="0 0 ` + targetWidth.toString() + ` 16" width="` + (targetWidth === 0 ? "0" : "auto") + `" height="1em" style="overflow: visible;">` +
                   layersHtml +
                   `</svg></span>`;
                 newTokens.push(svgToken);

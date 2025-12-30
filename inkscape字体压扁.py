@@ -18,6 +18,9 @@ HALF_PREFIX = "gen_half_"
 HALF_OFFSET = (0.25, -16/10*1.5)
 HALF_MOVE = (0, 16)
 HALF_SCALE = (0.55, 1+0.2)
+HALF_OFFSET_ALT = (0.25, -16/10*1.5+2)
+HALF_MOVE_ALT = (0, 16)
+HALF_SCALE_ALT = (0.55, (1+0.2)*0.8)
 HALF_CLONE_MOVE = (16, 0)
 # 克隆的相对移动列表
 HALF_CLONE_OFFSETS = [
@@ -124,7 +127,10 @@ for obj in all_shapes():
     if isinstance(label, str) and (label.startswith('consonant_') or label.startswith('vowel_')):
         process_object(obj, WHOLE_PREFIX, WHOLE_OFFSET, WHOLE_MOVE, WHOLE_SCALE, WHOLE_CLONE_MOVE, WHOLE_CLONE_OFFSETS, WHOLE_CLONE_ID_SUFFIX)
         # 执行第一阶段 (Half)
-        process_object(obj, HALF_PREFIX, HALF_OFFSET, HALF_MOVE, HALF_SCALE, HALF_CLONE_MOVE, HALF_CLONE_OFFSETS, HALF_CLONE_ID_SUFFIX)
+        if label.startswith('consonant_'):
+            process_object(obj, HALF_PREFIX, HALF_OFFSET_ALT, HALF_MOVE_ALT, HALF_SCALE_ALT, HALF_CLONE_MOVE, HALF_CLONE_OFFSETS, HALF_CLONE_ID_SUFFIX)
+        else:
+            process_object(obj, HALF_PREFIX, HALF_OFFSET, HALF_MOVE, HALF_SCALE, HALF_CLONE_MOVE, HALF_CLONE_OFFSETS, HALF_CLONE_ID_SUFFIX)
 
         # 执行第二阶段 (Quarter)
         # 再次使用 target，保证 Quarter 也是从原件复制

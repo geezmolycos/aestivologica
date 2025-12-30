@@ -96,6 +96,18 @@ function build() {
             padding: 0.25em 0.5em;
         }
 
+        .big {
+            font-size: 200%;
+        }
+
+        .small {
+            font-size: 70%;
+        }
+        
+        .half {
+            font-size: 50%;
+        }
+
         h1 { padding-left: 0em; }
         h2 { padding-left: 2em; }
         h3 { padding-left: 4em; }
