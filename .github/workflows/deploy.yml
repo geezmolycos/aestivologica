@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+
+# 设置权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 10 # 你可以指定具体的 pnpm 版本，或者使用 latest
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'pnpm' # 开启 pnpm 依赖缓存，加快后续构建速度
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile # 使用 frozen-lockfile 确保环境一致性
+
+      - name: Run build script
+        run: node build.js
+
+      - name: Prepare files for deployment
+        run: |
+          mkdir -p public
+          # 将 output.html 设为首页
+          cp output.html public/index.html
+          # 复制资源目录
+          cp -r figure public/
+          cp -r icons public/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
