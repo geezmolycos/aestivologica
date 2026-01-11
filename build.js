@@ -60,7 +60,11 @@ function build() {
             /* 背景颜色 */
             --color-background: #ffffff;
             /* 次级背景/高亮 (例如代码块背景) */
-            --color-surface: #f8f9fa; 
+            --color-surface: #f8f9fa;
+            --color-red: #de3e2d;
+            --color-yellow: #a17a00;
+            --color-green: #009e36;
+            --color-blue: #0089d7;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -68,6 +72,10 @@ function build() {
                 --color-text: #e9ecef; /* 浅色文本 */
                 --color-background: #212529; /* 深色背景 */
                 --color-surface: #343a40; /* 略浅的深色 */
+                --color-red: #ff7f6e;
+                --color-yellow: #ad850b;
+                --color-green: #15b34b;
+                --color-blue: #1ca5f3;
             }
         }
 
@@ -93,11 +101,25 @@ function build() {
         }
         td {
             border: 1px solid gray;
-            padding: 0.25em 0.5em;
+            padding: 0.25em 0.75em;
+        }
+        td p {
+            margin-block-start: 0;
+            margin-block-end: 0;
+        }
+
+        .bigger {
+            font-size: 300%;
+        }
+        .bigger.half {
+            font-size: 150%;
         }
 
         .big {
             font-size: 200%;
+        }
+        .big.half {
+            font-size: 100%;
         }
 
         .small {
