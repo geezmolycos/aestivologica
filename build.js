@@ -122,6 +122,13 @@ function build() {
             font-size: 100%;
         }
 
+        .lessbig {
+            font-size: 140%;
+        }
+        .lessbig.half {
+            font-size: 70%;
+        }
+
         .small {
             font-size: 70%;
         }
@@ -130,9 +137,27 @@ function build() {
             font-size: 50%;
         }
 
+        .red {
+            color: var(--color-red);
+        }
+
+        .yellow {
+            color: var(--color-yellow);
+        }
+
+        .green {
+            color: var(--color-green);
+        }
+
+        .blue {
+            color: var(--color-blue);
+        }
+
         h1 { padding-left: 0em; }
         h2 { padding-left: 2em; }
         h3 { padding-left: 4em; }
+
+        a { color: var(--color-blue); }
         
         .svg-stack {
             display: inline-block;
