@@ -162,6 +162,7 @@ function build() {
         .svg-stack {
             display: inline-block;
             vertical-align: -0.125em;
+            overflow: visible;
         }
         
         @media (prefers-color-scheme: dark) {

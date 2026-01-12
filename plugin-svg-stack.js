@@ -8,8 +8,8 @@ module.exports = function svgUsePlugin(md, options) {
   const publicPath = options.publicPath || '';
   const defaultFile = options.defaultFile || 'default.svg';
 
-  // 正则：匹配 ::...:: 格式，内部允许字母、数字、下划线、横杠、点等符號
-  const REGEX = /::([a-zA-Z0-9_\-\.\,#\+:]+?)::/g;
+  // 正则：匹配 ::...:: 格式，内部允许任何字符
+  const REGEX = /::(.+?)::/g;
 
   md.core.ruler.push('svg_use_stack', function (state) {
     for (let i = 0; i < state.tokens.length; i++) {
@@ -55,18 +55,24 @@ module.exports = function svgUsePlugin(md, options) {
               rawItems.forEach(item => {
 
                 let color = null;
+                let x = 0;
+                let y = 0;
 
                 // 解析每个子項内的 可選參數 (例如 "star+w32")
                 const [mainPart, ...options] = item.split('+');
                 for (let opt of options) {
                   const optType = opt[0];
                   const optValue = opt.slice(1);
-                  if (optType == 'w') {
-                    targetWidth = optValue ? parseInt(optValue, 10) : targetWidth;
-                  } else if (optType == 'c') {
+                  if (optType === 'w') {
+                    targetWidth = optValue ? parseFloat(optValue) : targetWidth;
+                  } else if (optType === 'c') {
                     color = {
                       'r': 'red', 'y': 'yellow', 'g': 'green', 'b': 'blue',
                     }[optValue] || null;
+                  } else if (optType === 'x') {
+                    x = optValue ? parseFloat(optValue) : x;
+                  } else if (optType === 'y') {
+                    y = optValue ? parseFloat(optValue) : y;
                   }
                 }
                 let fileName = '';
@@ -74,7 +80,7 @@ module.exports = function svgUsePlugin(md, options) {
 
                 if (mainPart.includes('#')) {
                   const parts = mainPart.split('#');
-                  fileName = parts[0] || defaultFile.replace('.svg', ''); // ::#id:: 情况
+                  fileName = parts[0];
                   idName = parts[1];
                 } else {
                   fileName = defaultFile.replace('.svg', '')
@@ -82,7 +88,6 @@ module.exports = function svgUsePlugin(md, options) {
                 }
 
                 const fullFileName = fileName.endsWith('.svg') ? fileName : `${fileName}.svg`;
-                const filePath = path.join(basePath, fullFileName); // 不用校驗文件路徑了
 
                 if (idName.length === 0) { // 空格
                   hasValidItem = true;
@@ -90,7 +95,12 @@ module.exports = function svgUsePlugin(md, options) {
                   const fileUrl = `${publicPath}${fullFileName}`;
                   const filter = color ? `filter="url(./color-filter.svg#filter-${color})"` : '';
                   
-                  layersHtml += `<use href="${fileUrl}#${idName}" x="0" y="0" ${filter}></use>`;
+                  if (fileName !== '') {
+                    layersHtml += `<use href="${fileUrl}#${idName}" x="${x}" y="${y}" ${filter}></use>`;
+                  } else {
+                    // 文件名爲空，格式類似 "#字"，直接插入文本
+                    layersHtml += `<text x="${x}" y="${14+y}" font-size="16px" ${filter}>${idName}</text>`
+                  }
                   hasValidItem = true;
                 }
               });
@@ -99,8 +109,8 @@ module.exports = function svgUsePlugin(md, options) {
               if (hasValidItem) {
                 const svgToken = new state.Token('html_inline', '', 0);
                 // 设置 viewBox 爲 targetWidth 寬度，高度 1em
-                svgToken.content = `<span class="svg-stack">` +
-                  `<svg viewBox="0 0 ` + targetWidth.toString() + ` 16" width="` + (targetWidth === 0 ? "0" : "auto") + `" height="1em" style="overflow: visible;">` +
+                svgToken.content = `<span class="svg-stack" style="width: ${targetWidth/16}em">` +
+                  `<svg viewBox="0 0 16 16" width="1em" height="1em" style="overflow: visible;">` +
                   layersHtml +
                   `</svg></span>`;
                 newTokens.push(svgToken);
