@@ -82,7 +82,8 @@ function build() {
         body {
             font-family: Calibri, sans-serif; 
             padding: 2rem; 
-            max-width: 800px; 
+            max-width: 800px;
+            min-width: 800px;
             margin: 0 auto; 
             line-height: 1.6;
             
