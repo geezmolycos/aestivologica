@@ -102,6 +102,8 @@ module.exports = function svgUsePlugin(md, options) {
                   const fileUrl = `${publicPath}${fullFileName}`;
                   const filter = color ? `filter="url(./color-filter.svg#filter-${color})"` : '';
                   const transform = scale !== 1 ? `transform="scale(${scale})"` : '';
+                  x /= scale;
+                  y /= scale;
                   
                   if (fileName !== '') {
                     layersHtml += `<use href="${fileUrl}#${idName}" x="${x}" y="${y}" ${filter} ${transform}></use>`;

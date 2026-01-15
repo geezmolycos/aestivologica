@@ -108,6 +108,9 @@ function build() {
             margin-block-start: 0;
             margin-block-end: 0;
         }
+        th {
+            padding: 0.25em 0.75em;
+        }
 
         .bigger {
             font-size: 300%;
