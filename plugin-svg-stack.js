@@ -1,5 +1,3 @@
-const fs = require('fs');
-const path = require('path');
 
 module.exports = function svgUsePlugin(md, options) {
   // basePath 用于 Node.js 校验文件是否存在

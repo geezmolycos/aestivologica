@@ -6,6 +6,8 @@ const MarkdownIt = require('markdown-it');
 const svgStackPlugin = require('./plugin-svg-stack');
 const fontSizePlugin = require('./plugin-fontsize');
 const accentQuickPlugin = require('./plugin-accent-quick');
+const macroPlugin = require('./plugin-macro');
+const myMacros = require('./macros'); // 导入外部宏定义
 // --- 配置路径 ---
 const SRC_FILE = path.join(__dirname, '夏理文v1.2设计文档.md');
 const OUT_FILE = path.join(__dirname, 'output.html');
@@ -18,6 +20,7 @@ const md = new MarkdownIt({
     breaks: true
 });
 
+md.use(macroPlugin, { macros: myMacros });
 md.use(accentQuickPlugin);
 // !!! 关键顺序 !!!
 // 1. 先加载字体插件 (先把 ^^::icon::^^ 拆解成 span + text)
