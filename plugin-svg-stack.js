@@ -57,6 +57,7 @@ module.exports = function svgUsePlugin(md, options) {
                 let color = null;
                 let x = 0;
                 let y = 0;
+                let scale = 1;
 
                 // 解析每个子項内的 可選參數 (例如 "star+w32")
                 const [mainPart, ...options] = item.split('+');
@@ -65,6 +66,10 @@ module.exports = function svgUsePlugin(md, options) {
                   const optValue = opt.slice(1);
                   if (optType === 'w') {
                     targetWidth = optValue ? parseFloat(optValue) : targetWidth;
+                  } else if (optType === 'h') { // half width
+                    targetWidth = 8;
+                  } else if (optType === 'z') { // zero width
+                    targetWidth = 0;
                   } else if (optType === 'c') {
                     color = {
                       'r': 'red', 'y': 'yellow', 'g': 'green', 'b': 'blue',
@@ -73,6 +78,8 @@ module.exports = function svgUsePlugin(md, options) {
                     x = optValue ? parseFloat(optValue) : x;
                   } else if (optType === 'y') {
                     y = optValue ? parseFloat(optValue) : y;
+                  } else if (optType === 's') { // scale
+                    scale = optValue ? parseFloat(optValue) : scale;
                   }
                 }
                 let fileName = '';
@@ -94,12 +101,13 @@ module.exports = function svgUsePlugin(md, options) {
                 } else {
                   const fileUrl = `${publicPath}${fullFileName}`;
                   const filter = color ? `filter="url(./color-filter.svg#filter-${color})"` : '';
+                  const transform = scale !== 1 ? `transform="scale(${scale})"` : '';
                   
                   if (fileName !== '') {
-                    layersHtml += `<use href="${fileUrl}#${idName}" x="${x}" y="${y}" ${filter}></use>`;
+                    layersHtml += `<use href="${fileUrl}#${idName}" x="${x}" y="${y}" ${filter} ${transform}></use>`;
                   } else {
                     // 文件名爲空，格式類似 "#字"，直接插入文本
-                    layersHtml += `<text x="${x}" y="${14+y}" font-size="16px" ${filter}>${idName}</text>`
+                    layersHtml += `<text x="${x}" y="${14+y}" font-size="16px" ${filter} ${transform}>${idName}</text>`
                   }
                   hasValidItem = true;
                 }
