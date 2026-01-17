@@ -9,7 +9,7 @@ module.exports = {
     const [name, content] = args;
     if (name) {
       ctx.templates = ctx.templates || {};
-      ctx.templates[name.trim()] = content;
+      ctx.templates[name.trim()] = content.trim();
     }
     return "";
   },
@@ -17,7 +17,7 @@ module.exports = {
   call: (args, { md, env, ctx }) => {
     const [name, ...params] = args;
     const template = ctx.templates?.[name.trim()];
-    if (!template) return null;
+    if (!template) return { html: `<span style="color:red; border-bottom:1px dotted red;">Error: no such def ${name}</span>`};
 
     const rendered = template.replace(/\{(\d+)\}/g, (m, i) => params[i] ?? m);
     return { html: md.render(rendered, env) };
