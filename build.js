@@ -7,6 +7,8 @@ const svgStackPlugin = require('./plugin-svg-stack');
 const fontSizePlugin = require('./plugin-fontsize');
 const accentQuickPlugin = require('./plugin-accent-quick');
 const macroPlugin = require('./plugin-macro');
+const anchorPlugin = require('markdown-it-anchor');
+const tocPlugin = require('markdown-it-toc-done-right');
 const myMacros = require('./macros'); // 导入外部宏定义
 // --- 配置路径 ---
 const SRC_FILE = path.join(__dirname, '夏理文v1.2设计文档.md');
@@ -29,9 +31,13 @@ md.use(fontSizePlugin);
 
 // 2. 后加载 SVG 插件 (在 span 里的 text 中查找 ::icon:: 并替换)
 md.use(svgStackPlugin, {
-  basePath: ICONS_DIR,      // 磁盘路径，用于检查文件
-  publicPath: 'icons/',                         // HTML中引用的相对路径
-  defaultFile: 'default.svg'                    // 默认库文件
+    basePath: ICONS_DIR,      // 磁盘路径，用于检查文件
+    publicPath: 'icons/',                         // HTML中引用的相对路径
+    defaultFile: 'default.svg'                    // 默认库文件
+});
+md.use(anchorPlugin);
+md.use(tocPlugin, {
+    level: 2
 });
 
 // --- 主逻辑 ---

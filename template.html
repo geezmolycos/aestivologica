@@ -113,23 +113,10 @@
         h2 { padding-left: 2em; }
         h3 { padding-left: 4em; }
         h4 { padding-left: 6em; }
-        
-        body {counter-reset: section}
-        h2 {counter-reset: sub-section}
-        h3 {counter-reset: sub-sub-section}
 
-        h2:before {
-            counter-increment: section;
-            content: counter(section) " ";
-        }
-        h3:before {
-            counter-increment: sub-section;
-            content: counter(section) "." counter(sub-section) " ";
-        }
-        h4:before {
-            counter-increment: sub-sub-section;
-            content: counter(section) "." counter(sub-section) "." counter(sub-sub-section) " ";
-        }
+        ol { counter-reset: list-item; }
+        li { display: block; counter-increment: list-item; }
+        li:before { content: counters(list-item,'.') ' '; }
 
         a { color: var(--color-blue); }
         
