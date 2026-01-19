@@ -42,6 +42,7 @@ jobs:
           # 复制资源目录
           cp -r figure public/
           cp -r icons public/
+          cp color-filter.svg public/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
